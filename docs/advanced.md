@@ -12,8 +12,6 @@ This chapter covers advanced topics, such as administering the domain names.
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
-
-
 ## Who is a domain name administrator
 
 **Domain administrator is an individual, individual entrepreneur or legal entity who registered domain name.**
@@ -21,29 +19,18 @@ This chapter covers advanced topics, such as administering the domain names.
 ```
 Domain administrator is an individual, individual entrepreneur or legal entity who registered domain name.
 ```
-<br/>
 
 ## What is a domain name administering
 
 **Administering typically includes: the functioning of servers, maintaining the site in a healthy state and ensuring its accessibility; the implementation of a backup site components and configuration options for databases and other works**
-* Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011*
-```
-Administering typically includes: maintenance of the server on which a website is hosted; maintenance a website 
-in a healthy state and ensuring its availability; back up website components and database settings; carrying out 
-organizational and technical measures to protect information on a website from unauthorized access; installation 
-of software necessary for the operation of the website, including in case of an emergency; registration of 
-employees serving the website, and granting the right to change the information on the website; carrying out 
-routine maintenance on the server (replacement or addition of site components, maintaining log files of archive 
-copies, monitoring the availability of a free table database spaces, etc.); ensuring the placement of information 
-on a website; continuous monitoring of the security system of services required for correct operation of the 
-website applications and information; work on the modernization and improvement of the functional services of the 
-website; changes in website structure and design; other types of work.
-```
+
+Administering typically includes: maintenance of the server on which a website is hosted; maintenance a website in a healthy state and ensuring its availability; back up website components and database settings; carrying out organizational and technical measures to protect information on a website from unauthorized access; installation of software necessary for the operation of the website, including in case of an emergency; registration of employees serving the website, and granting the right to change the information on the website; carrying out routine maintenance on the server (replacement or addition of site components, maintaining log files of archive copies, monitoring the availability of a free table database spaces, etc.); ensuring the placement of information on a website; continuous monitoring of the security system of services required for correct operation of the website applications and information; work on the modernization and improvement of the functional services of the website; changes in website structure and design; other types of work.
+{:.note title="Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011"}
+
 
 The same conclusion may be found in other judicial acts, such as:
 
 * *Decision of the Moscow Arbitration court as of 28 may 2012 in case no. A40-25696/2012*
-<br/>
 
 
 ## A role and liability of domain name administrator
