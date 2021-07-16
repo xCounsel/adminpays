@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Thank You!
+title: Get a compensation from a domain owner or admin in Russia!
 sitemap: false
 ---
 
