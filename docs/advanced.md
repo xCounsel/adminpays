@@ -13,19 +13,19 @@ This chapter covers advanced topics, such as administering the domain names.
 {:toc}
 
 
-# Administering the domain names
 
-----
+## Who is a domain name administrator
 
-
-#### Domain administrator is an individual, individual entrepreneur or legal entity who registered domain name.
-* Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011*
+**Domain administrator is an individual, individual entrepreneur or legal entity who registered domain name.**
+* Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011
 ```
 Domain administrator is an individual, individual entrepreneur or legal entity who registered domain name.
 ```
 <br/>
 
-#### Administering typically includes: the functioning of servers, maintaining the site in a healthy state and ensuring its accessibility; the implementation of a backup site components and configuration options for databases and other works
+## What is a domain name administering
+
+**Administering typically includes: the functioning of servers, maintaining the site in a healthy state and ensuring its accessibility; the implementation of a backup site components and configuration options for databases and other works**
 * Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011*
 ```
 Administering typically includes: maintenance of the server on which a website is hosted; maintenance a website 
@@ -46,7 +46,9 @@ The same conclusion may be found in other judicial acts, such as:
 <br/>
 
 
-#### The domain name administrator determines the procedure for the use of the domain name, and is responsible for the choice of the domain name, possible violations of the rights of third parties associated with the choice and use of the domain name, and bears the risk of losses associated with such violations.
+## A role and liability of domain name administrator
+
+**The domain name administrator determines the procedure for the use of the domain name, and is responsible for the choice of the domain name, possible violations of the rights of third parties associated with the choice and use of the domain name, and bears the risk of losses associated with such violations.**
 * Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011*
 ```
 The respondent, as the administrator of the domain name, determines the procedure for the use of the domain name, 
@@ -59,7 +61,7 @@ The same conclusion may be found in other judicial acts, such as:
 * *Decision of the Moscow Arbitration court as of 08 April 2011 in case no. A40-152587/2010*
 <br/>
 
-#### The website owner should be responsible for posting information that is contrary to the law, as he is the person who created the appropriate technical conditions for the visitors of his Internet resource
+**The website owner should be responsible for posting information that is contrary to the law, as he is the person who created the appropriate technical conditions for the visitors of his Internet resource**
 * Decision of the Moscow Arbitration court as of 03 November 2011 in case no. A40-73876/2011*
 ```
 Assessing the evidence presented, the court concluded that the actual use of the resources of the website on which 
