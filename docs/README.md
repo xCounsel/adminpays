@@ -14,9 +14,10 @@ Should you discover a mistake in the docs (or a bug in general) feel free to [op
 While this manual tries to be beginner-friendly, as a user of Jekyll it is assumed that you are comfortable running shell commands and editing text files.
 {:.note}
 
+# Domain disputes in Russia
 
-## Getting started
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
+## Articles and Guides
+* [Compensations in Russia]{:.heading.flip-title} --- How to get the most compensation in domain names disputes in Russia.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
@@ -37,7 +38,16 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-[install]: install.md
+# Domain disputes in Belarus
+
+*coming soon*
+
+# Domain disputes in Poland
+
+*coming soon*
+
+
+[Compensations in Russia]: compensations-Russia.md
 [upgrade]: upgrade.md
 [config]: config.md
 [Compensation amount]: compensation-amount.md
