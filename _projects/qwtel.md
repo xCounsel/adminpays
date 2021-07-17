@@ -27,6 +27,9 @@ ADMINISTRATIVE PANEL DECISION
 Yandex LLC v. Whois Privacy Protection Service, Inc. / Svetlana Taisia
 Case No. D2015-0363
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
 # The Parties
 
 The Complainant is Yandex LLC of Moscow, Russian Federation ("Russia"), represented by Denis Dorotenko, Russia.
