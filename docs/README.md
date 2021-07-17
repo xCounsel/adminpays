@@ -51,10 +51,10 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [Evidence in domain disputes]: migration.md
 [Trademarks vs domain names]: trademarks.md
 [upgrade]: upgrade.md
-[config]: config.md
+[Examples of domain names related agreements]: config.md
 [writing]: writing.md
 [scripts]: scripts.md
-[advanced]: advanced.md
+[Administration of domain names]: advanced.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
