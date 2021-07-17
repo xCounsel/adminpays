@@ -25,7 +25,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [Compensation amount]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Trademarks]{:.heading.flip-title} --- How to build the static files for deployment.
+* [Trademarks vs domain names]{:.heading.flip-title} --- How to build the static files for deployment.
 * [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
 {:.related-posts.faded}
 
