@@ -20,12 +20,12 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 # Domain disputes in Russia
 
 ## Articles and Guides
-* [Compensations in Russia]{:.heading.flip-title} --- How to get the most compensation in domain names disputes in Russia.
+* [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover/ how to get the most compensation in domain names disputes in Russia.
 * [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
 * [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
 {:.related-posts.faded}
 
-## Using Hydejack
+## Court cases excerpts
 * [Compensation amount]{:.heading.flip-title} --- How to add different types of content.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
@@ -35,7 +35,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 
 {:.related-posts.faded}
 
-## Other
+## Other materials
 * [LICENSE]{:.heading.flip-title} --- The license of this project.
 * [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
@@ -50,7 +50,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 *coming soon*
 
 
-[Compensations in Russia]: compensations-Russia.md
+[Compensations and domain disputes in Russia]: compensations-Russia.md
 [upgrade]: upgrade.md
 [config]: config.md
 [Compensation amount]: compensation-amount.md
