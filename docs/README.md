@@ -20,18 +20,18 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 # Domain disputes in Russia
 
 ## Articles and Guides
-* [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover/ how to get the most compensation in domain names disputes in Russia.
-* [Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start editing your config file.
+* [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover, how to get the most compensation.
+* *[Upgrade]{:.heading.flip-title} --- You can skip this if you haven't used Hydejack before.*
+* [Examples of domain names related agreements]{:.heading.flip-title} --- Find out quite good examples of agreements' templates related to domain names deals.
 {:.related-posts.faded}
 
 ## Court cases excerpts
-* [Compensation amount]{:.heading.flip-title} --- How to add different types of content.
+* [Administration of domain names]{:.heading.flip-title} --- thoughts by courts about what such administration is.
+* [Compensation amount]{:.heading.flip-title} --- what factors affect the amount of a compensation in domain name cases.
+* [Evidence in domain disputes]{:.heading.flip-title} --- cases excerpts from domain name disputes on evidence.
+* [Trademarks vs domain names]{:.heading.flip-title} --- what Russian courts say about trademarks and domain names.
 * [Writing]{:.heading.flip-title} --- Producing markdown content for Hydejack.
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
-* [Trademarks vs domain names]{:.heading.flip-title} --- How to build the static files for deployment.
-* [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
-* [Migration]{:.heading.flip-title} --- evidence.
 
 {:.related-posts.faded}
 
@@ -41,24 +41,20 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
 {:.related-posts.faded}
 
-# Domain disputes in Belarus
-
-*coming soon*
-
-# Domain disputes in Poland
+# Domain disputes in other countries
 
 *coming soon*
 
 
 [Compensations and domain disputes in Russia]: compensations-Russia.md
+[Compensation amount]: compensation-amount.md
+[Evidence in domain disputes]: migration.md
+[Trademarks vs domain names]: trademarks.md
 [upgrade]: upgrade.md
 [config]: config.md
-[Compensation amount]: compensation-amount.md
 [writing]: writing.md
 [scripts]: scripts.md
-[Trademarks vs domain names]: trademarks.md
 [advanced]: advanced.md
-[Migration]: migration.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
