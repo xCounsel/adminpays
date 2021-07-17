@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Administering the domain names
+title: Administration of domain names
 description: >
   This chapter covers advanced topics, such as administering the domain names.
 hide_description: true
