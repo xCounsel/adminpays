@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Domain names and trademarks (part 2)
+title: Trademarks vs domain names
 description: >
   This chapters shows the commons and differences between trademarks and domian names.
 hide_description: true
