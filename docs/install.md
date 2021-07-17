@@ -11,12 +11,12 @@ This article gives some answers on how to get the most compensation in domain na
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
-<br/>
-
 ***
 *this article is a copy of another one: [Domain names disputes: how to get the most compensation in Russian courts](https://dorotenko.pro/domain-disputes-in-russia-wtr/)*
 
 ***
+<br/>
+
 
 In this post I analysed recent Russian court practice on domain disputes and looked at the amount of compensation awarded by courts in favor of plaintiffs. The analysis, made possible from my own [Kardamon.Dm database](https://github.com/xCounsel/kardamon/tree/master/English/premium), identifies factors that could directly affect such compensation – ensuring brand owners are prepared for domain disputes in Russia.
 
@@ -63,6 +63,8 @@ Thirdly, for the correct calculation of the amount of compensation claimed by th
 Therefore, for all those reasons, plaintiffs are not recommended to rely entirely on the principles of reasonableness and fairness. It is necessary, then, to study in detail the factors that can be used to justify the claimed amount of compensation. Also, it will naturally be useful for plaintiffs to know the details of other similar court cases. This, for example, could determine the "average bill" of the compensation.
 
 For those pursuing a domain dispute in Russian courts, removing the dark spots in the definition and assignment of compensation for domain disputes will help to make the practice more unified and predictable, while preserving the chance for the plaintiff to take an individual approach to the consideration of his case.
+
+<br/>
 
 ***
 *This article was originally [published](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) at World Trademark Review.*
