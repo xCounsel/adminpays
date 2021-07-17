@@ -27,6 +27,8 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 * [Scripts]{:.heading.flip-title} --- How to include 3rd party scripts on your site.
 * [Trademarks vs domain names]{:.heading.flip-title} --- How to build the static files for deployment.
 * [Advanced]{:.heading.flip-title} --- Guides for more advanced tasks.
+* [Migration]{:.heading.flip-title} --- evidence.
+
 {:.related-posts.faded}
 
 ## Other
@@ -43,6 +45,7 @@ While this manual tries to be beginner-friendly, as a user of Jekyll it is assum
 [scripts]: scripts.md
 [Trademarks vs domain names]: trademarks.md
 [advanced]: advanced.md
+[Migration]: migration.md
 [LICENSE]: ../LICENSE.md
 [NOTICE]: ../NOTICE.md
 [CHANGELOG]: ../CHANGELOG.md
