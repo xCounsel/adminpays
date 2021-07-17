@@ -14,6 +14,7 @@ This article gives some answers on how to get the most compensation in domain na
 
 ***
 *this article is a copy of another one: [Domain names disputes: how to get the most compensation in Russian courts](https://dorotenko.pro/domain-disputes-in-russia-wtr/)*
+
 ***
 
 In this post I analysed recent Russian court practice on domain disputes and looked at the amount of compensation awarded by courts in favor of plaintiffs. The analysis, made possible from my own [Kardamon.Dm database](https://github.com/xCounsel/kardamon/tree/master/English/premium), identifies factors that could directly affect such compensation – ensuring brand owners are prepared for domain disputes in Russia.
@@ -30,6 +31,7 @@ Getting answers to these questions are important to be able to look more deeply 
 The awarding by courts of compensations in those amounts that were initially demanded by plaintiffs is not a frequent phenomenon in Russia. For example, in the cases given in the below table, the courts satisfied the plaintiffs' financial appetites for compensation in full – with the ‘Requested compensation’ representing the figure – in rubles – claimed by the plaintiffs as compensation for the violation of their rights (with judicial or other costs not taken into account).
 
 <table><thead><tr><th><p><strong>Domain as object of dispute</strong></p></th><th><p><strong>Case number</strong></p></th><th><p><strong>Requested compensation</strong></p></th><th><p><strong>Type of violation of plaintiffs' rights</strong></p></th></tr></thead><tbody><tr><td><p>‘avtokreditbank.ru’</p></td><td><p>No. A41-27647/14</p></td><td><p>1,000,000</p></td><td><p>Firm name</p></td></tr><tr><td><p>‘bonduellе.ru’</p></td><td><p>No. A40-131093/2013</p></td><td><p>10,000</p></td><td><p>Trademark</p></td></tr><tr><td><p>‘мамамаркет.рф’</p></td><td><p>No. A56-51169/2011</p></td><td><p>1,350,000</p></td><td><p>Trademark</p></td></tr><tr><td><p>‘sberbank.org’ and ‘sberbank.biz’</p></td><td><p>No. A40-140236/10-51-1189</p></td><td><p>500,000</p></td><td><p>Trademark, well-known trademark</p></td></tr></tbody></table>
+<br/>
 
 However, in a very large number of disputes, the courts have reduced the amount of compensation awarded to plaintiffs in domain name cases. The table below includes some of theses instances, with the ‘Divider’ figure representing how many times, as a result of the reduction, the courts reduced the initial claims of the plaintiffs for the compensation requested by them.
 
@@ -62,8 +64,9 @@ Therefore, for all those reasons, plaintiffs are not recommended to rely entirel
 For those pursuing a domain dispute in Russian courts, removing the dark spots in the definition and assignment of compensation for domain disputes will help to make the practice more unified and predictable, while preserving the chance for the plaintiff to take an individual approach to the consideration of his case.
 
 ***
-*originally was [published](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) at World Trademark Review*
+*This article was originally [published](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) at World Trademark Review.*
 
+***
 
 Continue with [Config](config.md){:.heading.flip-title}
 {:.read-more}
