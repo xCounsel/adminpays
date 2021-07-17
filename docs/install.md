@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Domain names disputes: how to get the most compensation in Russian courts
+title: How to get the most compensation in domain names disputes in Russia
 description: >
   Domain names disputes: how to get the most compensation
   in Russian courts.
