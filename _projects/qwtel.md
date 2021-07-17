@@ -1,6 +1,6 @@
 ---
 layout: project
-title: '@qwtel'
+title: 'UDRP Case No. D2015-0363'
 caption: How I use Hydejack on my personal site.
 description: >
   This is how I use Hydejack on my personal site. 
@@ -22,18 +22,165 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-For my personal site I've toned it down a bit. Instead of a flashy sidebar image, I chose a solid background color.
-However, I've given [certain](https://qwtel.com/projects/ducky-hunting/) [pages](https://qwtel.com/projects/blocky-blocks/) big sidebar images, and let Hydejack blend back to normal when the user navigates away.
+WIPO Arbitration and Mediation Center
+ADMINISTRATIVE PANEL DECISION
+Yandex LLC v. Whois Privacy Protection Service, Inc. / Svetlana Taisia
+Case No. D2015-0363
 
-While I love the font used for Hydejack's headings, for my personal site I felt less of a need to control the typesetting.
-That's why I'm not using Google Fonts, and instead use whatever is the default for the reader's operating system.
+# The Parties
 
-```yml
-google_fonts: false
-font:         false
-font_heading: false
-font_code:    false
-```
+The Complainant is Yandex LLC of Moscow, Russian Federation ("Russia"), represented by Denis Dorotenko, Russia.
 
-The configuration I use to enable the system font on my site. Feel free to copy!
-{:.figcaption}
+The Respondent is Whois Privacy Protection Service, Inc. of Kirkland, Washington, United States of America / Svetlana Taisia of Moscow, Russia.
+
+# The Domain Names and Registrar
+
+The disputed domain names <yandexgames.com>, <yandexigri.com> and <yandexoyun.com> are registered with Name.com LLC (the "Registrar").
+
+# Procedural History
+
+The Complaint was filed with the WIPO Arbitration and Mediation Center (the "Center") on March 3, 2015. On March 3, 2015, the Center transmitted by email to the Registrar a request for registrar verification in connection with the disputed domain names. On the same day, the Registrar transmitted by email to the Center its verification response disclosing registrant and contact information for the disputed domain names which differed from the named Respondent and contact information in the Complaint. The Center sent an email communication to the Complainant on March 4, 2015 providing the registrant and contact information disclosed by the Registrar, and inviting the Complainant to submit an amendment to the Complaint. The Complainant filed an amended Complaint on March 5, 2015.
+
+The Center verified that the amended Complaint satisfied the formal requirements of the Uniform Domain Name Dispute Resolution Policy (the "Policy" or "UDRP"), the Rules for Uniform Domain Name Dispute Resolution Policy (the "Rules"), and the WIPO Supplemental Rules for Uniform Domain Name Dispute Resolution Policy (the "Supplemental Rules").
+
+In accordance with the Rules, paragraphs 2(a) and 4(a), the Center formally notified the Respondent of the Complaint, and the proceedings commenced on March 11, 2015. In accordance with the Rules, paragraph 5(a), the due date for Response was March 31, 2015. The Respondent did not submit any response. Accordingly, the Center notified the Respondent's default on April 2, 2015.
+
+The Center appointed Irina V. Savelieva as the sole panelist in this matter on April 20, 2015. The Panel finds that it was properly constituted. The Panel has submitted the Statement of Acceptance and Declaration of Impartiality and Independence, as required by the Center to ensure compliance with the Rules, paragraph 7.
+
+# Factual Background
+
+The Complainant is a worldwide Internet service company originated from the Russian Federation. The Complainant is known as "Yandex" in particular by its Internet services (Yandex.Mail service at "mail.yandex.ru" or "mail.yandex.com.tr", Yandex.Disk service at "disk.yandex.ru/" or "disk.yandex.com.tr"), desktop software (Yandex.Elements at "element.yandex.ru" or "elements.yandex.com.tr"), Yandex.Browser (at "browser.yandex.ru" or "browser.yandex.com.tr") and mobile applications (Yandex.Browser, Yandex.Maps).
+
+Over 50 million users worldwide have registered to use the Complainant's services, through which they obtain services and software offered under the Complainant's trademarks. For example, only one Complainant's product – Yandex.Browser – has over 10 million users. The Complainant's services and products are provided in different languages (e.g. Russian, Ukrainian and Turkish).
+
+The Complainant is the owner of the well-known trademarks referring to the Complainant's services and products under trademark YANDEX and it is registered in:
+
+- Russia from October 17, 2002 for the several classes,
+
+- International Registration under the Madrid Agreement from November 10, 2003 for several classes,
+
+- United States of America from 12 September 12, 2006,
+
+- Turkey from August 15, 2012 for several classes.
+
+The Complainant registered different domain names containing the word "yandex". For example, the Complainant is the owner of the following domain names: <yandex.ru>, <yandex.mobi>, <yandex.com.tr>.
+
+For Turkish-speaking users the Complainant has a service called "Yandex.Oyun" ("Yandex.Games" in English) launched by the Complainant in 2012 and its domain name <yandex.com.tr> ("games.yandex.com.tr"). This service includes computer games of different types (e.g. Flash-games, mini-games, etc.) for usage by customers: games information, screenshots. Games are categorized on the service: there are simulators, logic games, quests, arcades and so on. The service provides the possibility to go to developer's websites and download games from the developer's servers. Over 15,000 individuals are users of this service under trademark YANDEX.
+
+The disputed domain names resolve to websites featuring online games and advertising.
+
+# Parties' Contentions
+
+## Complainant
+
+The Complainant contends the following:
+
+### The Respondent's registration of confusingly similar domain names
+
+The following domain names are the subject of this Complaint: <yandexigri.com>, <yandexoyun.com>, <yandexgames.com>. They were registered by the Respondent on the April 10, 2012, well after the Complainant established rights in majority of its own trademarks.
+
+All the disputed domain names incorporate the trademark YANDEX in its entirety. The only difference between them is the addition of generic words "igri", "oyun", "games". The word "igri" is a transliteration of the Russian word "игры". The word "oyun" is a Turkish translation of English word "games". Both of words ("игры" in Russian and "oyun" in Turkish) have the same meaning as the English word "games".
+
+The use of generic "games" terms does not prevent the disputed domain names from being confusingly similar to the Complainant's trademark YANDEX.
+### The Respondent has no rights or legitimate interests in respect of the disputed domain names
+
+- The Respondent has no registered trademark incorporating the word "yandex" or any other word which may be regarded as identical and/or confusingly similar to the trademark YANDEX.
+
+- The Respondent has no authorization from the Complainant to use the trademark YANDEX.
+
+- The Respondent is not commonly known by <yandexigri.com>, <yandexoyun.com>, and/or <yandexgames.com>.
+
+- Registrant is not making a legitimate noncommercial or fair use of <yandexigri.com>, <yandexoyun.com> and <yandexgames.com>.
+
+### The disputed domain names were registered and are being used in bad faith
+
+- The registration date, ways and purposes of use of the disputed domain names are characteristics of bad faith, for instance, the fact that the disputed domain names were registered after the registration of the Complainant's trademarks.
+
+- The Respondent has provided no evidence of its use of or demonstrable preparations to use the disputed domain names in connection with a bona fide offering of goods or services.
+
+- The Respondent is getting a commercial gain from the disputed domain names.
+
+- Use of a privacy protection service for the disputed domain names shall be regarded as a privacy shield to prevent enforcement of legitimate third-party rights and so as evidence of use of them in a bad faith.
+
+## Respondent
+
+The Respondent did not reply to the Complainant's contentions.
+
+# Discussion and Findings
+
+Pursuant to Policy, paragraph 4(a), the Complainant must prove each of the following to justify the transfer of the disputed domain names:
+
+(i) the disputed domain names are identical or confusingly similar to a trademark or service mark in which the Complainant has rights; and
+
+(ii) the Respondent has no rights or legitimate interests in respect of the disputed domain names; and
+
+(iii) the Respondent has registered and is using the disputed domain names in bad faith.
+
+The Panel comments that in compliance with Rules, paragraph 2(a), the Center has employed the required necessary measures to deliver actual notice to the Respondent and the Respondent was given a fair opportunity to present its case.
+
+By Rules, paragraph 5(b)(i), it is expected of a respondent to: "[r]espond specifically to the statements and allegations contained in the complaint and include any and all bases for the Respondent (domain name holder) to retain registration and use of the disputed domain name…". In the event of a default, under Rules, paragraph (14)(b): "…the Panel shall draw such inferences therefrom as it considers appropriate."
+
+In the event of the Respondent's default the Panel draws conclusion are not in favour of the Respondent. As stated by the panel in Viacom International Inc. v. Ir Suryani, WIPO Case No. D2001-1443: "Since the Respondent has not submitted any evidence and has not contested the contentions made by the Complainant, this Panel is left to render its decision on the basis of the uncontroverted contentions made, and the evidence supplied, by the Complainant […]. In the absence of any evidence to the contrary submitted by the Respondent, this Panel accepts in large measure (but not wholly) the submitted evidence and the contended for factual and legal conclusions as proven by such evidence."
+
+In this administrative proceeding, the Respondent's default entitles Panel to conclude that the Respondent has no arguments or evidence to rebut the assertions of the Complainant.
+A. Identical or Confusingly Similar
+
+Under paragraph 4(a)(i) of the Policy, the first thing which the Complainant must prove is that the disputed domain names are identical or confusingly similar to a trademark in which it has rights. For the purpose of filing under the UDRP, evidence of such ownership, license and/or authorization of the principal trademark holder to the bringing of the UDRP complaint would tend to support such a finding. The Complainant's trademark rights are not relevantly in dispute and the Complainant has provided sufficient evidence of the registrations of the YANDEX trademarks on which the Complainant relies in this proceeding. The Panel finds that the Complainant has established that is has rights in the YANDEX trademarks for the purposes of the first element of paragraph 4(a) of the Policy.
+
+The disputed domain names consist and fully embrace the word "yandex". The "yandex" element is identical to the YANDEX trademarks in Latin script, and is confusingly similar to the YANDEX trademarks. The extension "igri" or "game" in Russian in Cyrilic coincides with the nature of the Complainant's business. The extension "oyun" is a Turkish translation of English word "games" as the Complainant submits. Turkey is an important market for the Complainant's products.
+
+In the Panel's view, "igri", "game" and "oyun" do nothing to detract from the confusing similarity between the disputed domain names and the YANDEX trademarks. These suffixes makes it likely that Internet users would associate the disputed domain names with the Complainant and its YANDEX products and would have the impression that the disputed domain names represent an official service and product by the Complainant dedicated to the Turkish market in particular.
+
+Therefore, the Panel finds that the disputed domain names are confusingly similar to the YANDEX trademarks in which the Complainant has rights. As such, the Panel finds that the Complainant has established its case under paragraph 4(a)(i) of the Policy.
+B. Rights or Legitimate Interests
+
+The second element of a claim of abusive domain name registration and use is that the respondent has no rights or legitimate interests in respect of the disputed domain names (Policy, paragraph 4(a)(ii)). Paragraph 4(c) of the Policy provides that: "Any of the following circumstances, in particular but without limitation, if found by the Panel to be proved based on its evaluation of all evidence presented, shall demonstrate your [the Respondent's] rights or legitimate interests to the domain name for purposes of paragraph 4(a)(ii):
+
+(i) before any notice to you of the dispute, your use of, or demonstrable preparations to use, the domain name or a name corresponding to the domain name in connection with a bona fide offering of goods or services; or
+
+(ii) you (as an individual, business, or other organization) have been commonly known by the domain name, even if you have acquired no trademark or service mark rights; or
+
+(iii) you are making a legitimate noncommercial or fair use of the domain name, without intent for commercial gain to misleadingly divert consumers or to tarnish the trademark or service mark at issue." (Policy, paragraph 4(c)).
+
+As noted in the WIPO Overview of WIPO Panel Views on Selected UDRP Questions, Second Edition ("WIPO Overview 2.0"), paragraph 2.1, the burden is on the complainant to establish the absence of the respondent's rights or legitimate interests in the disputed domain name. However, because of the inherent difficulties in proving a negative, the consensus view is that the complainant need only put forward a prima facie case that the respondent lacks rights or legitimate interests. The burden of production then shifts to the respondent to rebut that prima facie case (see also, e.g. World Wrestling Federation Entertainment, Inc. v. Ringside Collectibles, WIPO Case No. D2000-1306).
+
+The Complainant has established prima facie case against the Respondent. The Complainant provides various evidence of the business it conducts in connection with its trademark, customer recognition and market development, in Turkey in particular.
+
+The Respondent has failed to present its argument against the Complainant's contentions.
+
+Therefore, there is no evidence that the Respondent is undertaking a legitimate business in connection with the disputed domain names, that the Respondent is commonly known by the disputed domain names or that the Respondent is making legitimate noncommercial or fair use of the disputed domain names. Furthermore, there is no evidence that the Complainant has licensed or authorised the Respondent's use of the YANDEX trademarks.
+
+Apart from the factual contentions of the Complainant, the only other source of information about the Respondent is the WhoIs information, provided by the Registrar, and the content of the disputed domain names. The WhoIs information contains no evidence that the Respondent is commonly known by the disputed domain names.
+
+In the Panel's view, in these circumstances it is highly unlikely that the registration of the disputed domain names was coincidental. The Respondent must have been well aware of the Complainant and of the YANDEX trademarks when it registered the disputed domain names, and their registration and use was made without the consent of the Complainant in an attempt to take advantage of the goodwill of the Complainant and of the YANDEX trademarks by attracting Internet traffic to the Respondent's websites, which compete with the Complainant's gaming service. The Panel is of the opinion that such conduct cannot give rise to rights and legitimate interests in the disputed domain names, and finds that the Complainant's prima facie case has not been rebutted. Therefore, the Respondent has no rights or legitimate interests in the disputed domain names.
+
+For these reasons, the Panel finds that the Complainant has established its case under paragraph 4(a)(ii) of the Policy.
+C. Registered and Used in Bad Faith
+
+Bad faith may be demonstrated where the evidence indicates that the Respondent registered and used the disputed domain names primarily with a view to taking unfair advantage of the Complainant's registered trademark rights and reputation (see e.g. SingTel Optus Pty v. Xnet, WIPO Case No. D2004-0734).
+
+Paragraph 4(b) of the Policy lists four illustrative alternative circumstances that shall be evidence of the registration and use of a domain name in bad faith by a respondent, namely:
+
+"(i) circumstances indicating that you have registered or you have acquired the domain name primarily for the purpose of selling, renting, or otherwise transferring the domain name registration to the complainant who is the owner of the trademark or service mark or to a competitor of that complainant, for valuable consideration in excess of your documented out of pocket costs directly related to the domain name; or
+
+(ii) you have registered the domain name in order to prevent the owner of the trademark or service mark from reflecting the mark in a corresponding domain name, provided that you have engaged in a pattern of such conduct; or
+
+(iii) you have registered the domain name primarily for the purpose of disrupting the business of a competitor; or
+
+(iv) by using the domain name, you have intentionally attempted to attract, for commercial gain, Internet users to your web site or other on-line location, by creating a likelihood of confusion with the complainant's mark as to the source, sponsorship, affiliation, or endorsement of your website or location or of a product or service on your website or location."
+
+As discussed above in relation the issue of rights and legitimate interests, the Respondent is likely to have known of the Complainant and of its products and trademarks prior to the registration of the disputed domain names , which are confusingly similar to the same trademarks. The disputed domain names were registered on April 10, 2012 - nearly ten years after the YANDEX trademark was first registered in Russia and nine years after the international trademark YANDEX was registered. The evidence provided by the Complainant shows that its business was launched in 2000 and now has a large operation with 50 million market share, that it has a global presence and an impressive reputation. The Respondent has not established that it has any rights or legitimate interests in the disputed domain names.
+
+It is no coincidence that the Respondent registered the disputed domain names the same year the Complainant launched its activity in Turkey. Taken together, and in the absence of any evidence or allegation to the contrary, these circumstances satisfy the Panel that the Respondent, by registering and using the disputed domain names, has intentionally attempted to attract for commercial gain Internet users to the websites at the disputed domain names by creating a likelihood of confusion with the YANDEX trademarks as to the source, sponsorship, affiliation, or endorsement of the same websites and of the products offered there. This supports a finding of bad faith registration and use under Policy, paragraph 4(b)(iv).
+
+The Panel makes a special mention of the fact that the Respondent used the privacy protection service for the disputed domain names to disguise its activity under this service. The actual domain name registration of someone called "Svetlana Taisia" has evidently bogus data and does not correspond to the standard requirements of domain name registration. These circumstances confirm the Complainant's contention that the disputed domain names were registered in bad faith.
+
+Therefore, the Panel finds that the Respondent has registered and used the disputed domain names in bad faith and that the Complainant has established its case under paragraph 4(a)(iii) of the Policy.
+
+# Decision
+
+For the foregoing reasons, in accordance with paragraphs 4(i) of the Policy and 15 of the Rules, the Panel orders that the disputed domain names <yandexgames.com>, <yandexigri.com> and <yandexoyun.com> be transferred to the Complainant.
+
+Irina V. Savelieva
+Sole Panelist
+Date: May 5, 2015
