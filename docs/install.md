@@ -12,17 +12,20 @@ This article gives some answers on how to get the most compensation in domain na
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
+***
+*this article is a copy of another one: [Domain names disputes: how to get the most compensation in Russian courts](https://dorotenko.pro/domain-disputes-in-russia-wtr/)*
+***
 
 In this post I analysed recent Russian court practice on domain disputes and looked at the amount of compensation awarded by courts in favor of plaintiffs. The analysis, made possible from my own [Kardamon.Dm database](https://github.com/xCounsel/kardamon/tree/master/English/premium), identifies factors that could directly affect such compensation – ensuring brand owners are prepared for domain disputes in Russia.
 
-### The analysis
+# The analysis
 
 What is the maximum compensation a plaintiff has been awarded from a domain dispute in front of Russian courts? What arguments and facts are taken into account by those courts when awarding compensation in a particular amount? Did the defendants successfully insist to reduce the amounts of such compensations?
 
 Getting answers to these questions are important to be able to look more deeply at the Russian domain dispute picture as a whole - including determining the ‘average bill’ for plaintiffs in such cases, verify hypotheses, and discover initially unknown correlations. To do this, I have studied more than 150 court cases of Russian arbitration courts in respect of at least 250 domain names, which cover a period of more than 10 years.
 
 
-#### On compensation in domain disputes
+# On compensation in domain disputes
 
 The awarding by courts of compensations in those amounts that were initially demanded by plaintiffs is not a frequent phenomenon in Russia. For example, in the cases given in the below table, the courts satisfied the plaintiffs' financial appetites for compensation in full – with the ‘Requested compensation’ representing the figure – in rubles – claimed by the plaintiffs as compensation for the violation of their rights (with judicial or other costs not taken into account).
 
@@ -34,7 +37,7 @@ However, in a very large number of disputes, the courts have reduced the amount 
 
 For example, then, in the ‘kamazland.ru’ case the plaintiff initially claimed 200,000 rubles compensation. The court of first instance has reduced its size to 20,000 rubles, but the next court reviewed the trial court's decision and adopted its final amount in 100,000 rubles. Thus, even if the court of first instance significantly reduces the amount of compensation compared to the original claims, the next court may well not support this decision, and the amount of compensation will be increased again.
 
-### Factors affecting the compensation
+# Factors affecting the compensation
 
 Courts often prescribe what factors (circumstances and other arguments) influenced their decisions in terms of compensation, and these can prove helpful when strategizing for domain disputes in Russia.
 
@@ -42,7 +45,7 @@ Courts often prescribe what factors (circumstances and other arguments) influenc
 
 The above list is not exhaustive, but represents a fairly detailed idea of what details of litigation directly affect the final amount of compensation awarded by the court.
 
-### Conclusion
+# Conclusion
 
 There are a variety of factors that appear to determine awarded compensation in Russian courts when it comes to domain disputes. Firstly, in a very large number of cases, courts award compensation in favor of plaintiffs to pay by individuals (domain name administrators). A person, being the registrant of the domain name, carries a certain risk in that they can be required to rectify the violation and pay compensation associated with their domain name.
 
