@@ -34,6 +34,11 @@ Appropriate credit as per Creative Commons licenses.
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
 
+Other photos and works:
+* Photo by <a href="https://unsplash.com/@pavstyuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mikhail Pavstyuk</a> on <a href="https://unsplash.com/s/photos/legal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+  
+
+
 [jb]: https://unsplash.com/photos/1braZySlEKA
 [cg]: https://unsplash.com/photos/AtvuPUenaeI
 [11]: https://icomoon.io/#icons-icomoon
