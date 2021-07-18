@@ -45,6 +45,8 @@ author:
   email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
+  github:              https://github.com/xCounsel/adminpays
+  linkedin:            dorotenko/en
 
 # Add links to the sidebar.
 menu:
