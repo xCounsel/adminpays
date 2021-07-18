@@ -7,7 +7,7 @@ hide_description: true
 sitemap: false
 ---
 
-This chapters shows the commons and differences between trademarks and domian names.
+This chapter shows the commons and differences between trademarks and domain names.
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
@@ -52,7 +52,7 @@ Domain names MIRAX.ME and MIRAX.TV, registered by the defendant, include the wor
 {:.note title="Decision of the Moscow Arbitration court as of 28 November 2011 in case no. A40-40435/2011"}
 
 
-# The same font in the domain name and trademark is a sign of their close connection
+# The same font in a trademark and a domain name may show their connection
 
 The disputed designation of the domain name and the protected trademark are executed by one font of the Latin alphabet, and at their reading it develops a strong belief about their close relationship.
 {:.note title="Decision of the Moscow Arbitration court as of 08 April 2011 in case no. A40-152587/2010"}
@@ -62,7 +62,7 @@ The disputed designation of the domain name and the protected trademark are exec
 {:.note title="Decision of the Moscow Arbitration court as of 28 may 2012 in case no. A40-25696/2012"}
 
 
-# In case of a conflict of trademark and domain name rights, the name and content of the site are analyzed
+# In case of a conflict between trademark and domain name rights, the name and content of the site are analyzed
 
 The Plaintiff owned trademarks and the domain name "bolshoi.me" are similar to the point of confusion, that follows from visual examination of the symbols.  The name of the website and its content are used for the realization of theater tickets, i.e. in the same field of activity as the right holder.
 {:.note title="The decision of the Moscow Arbitration court as of April 4, 2013 in the case № A40-162939/2012"}
