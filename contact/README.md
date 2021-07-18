@@ -13,9 +13,9 @@ Hi there! If you have any questions, issues, notices or problems related to doma
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Your name</label>
     <input type="text" name="name" id="full-name" placeholder="John Doe" required="">
-    <label for="email-address">Ваша почта</label>
+    <label for="email-address">Your email address</label>
     <input type="email" name="_replyto" id="email-address" placeholder="email@domain.tld" required="">
-    <label for="message">Ваше сообщение</label>
+    <label for="message">Your message</label>
     <textarea rows="5" name="message" id="message" placeholder="Write your text here." required=""></textarea>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
   </fieldset>
