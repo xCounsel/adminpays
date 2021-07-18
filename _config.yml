@@ -43,8 +43,8 @@ author:
   # Used by `jekyll-feed`:
   name:                Denis Dorotenko
   email:               <mail@domain.tld>
-  github:              https://github.com/xCounsel/adminpays
-  linkedin:            https://linkedin.com/in/dorotenko/en
+  github:              xCounsel/adminpays
+  linkedin:            dorotenko
 
 # Add links to the sidebar.
 menu:
