@@ -19,7 +19,7 @@ We try to make this manual tries to be beginner-friendly.
 
 ## Articles and Guides
 * [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover, how to get the most compensation.
-* [Examples of domain names related agreements]{:.heading.flip-title} --- Find out quite good examples of agreements' templates related to domain names deals.
+* [Examples of domain names related agreements]{:.heading.flip-title} --- Find out quite good examples of templates for the deals.
 
 
 ## Court cases excerpts
