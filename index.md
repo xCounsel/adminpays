@@ -1,6 +1,6 @@
 ---
 layout: welcome
-title: Claim a compensation in domain dispute in Russia!
+title: Claim a compensation in domain dispute!
 sitemap: false
 cover:  true
 ---
