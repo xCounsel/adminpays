@@ -66,8 +66,8 @@ legal:
     url:               /LICENSE/
   - title:             NOTICE
     url:               /NOTICE/
-  - title:             CHANGELOG
-    url:               /CHANGELOG/
+  - title:             NEWSLOG
+    url:               /NEWSLOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright:             © 2021. All rights reserved.
