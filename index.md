@@ -23,7 +23,7 @@ cover:  true
 * We use the [legal database](https://github.com/xCounsel/kardamon/tree/master/English/premium) on domain disputes in Russia.
 
 <br/>
-So, if you have some troubles with domains somewhere in Russia, let's [start](https://adminpays.com/contact/) your legal journey with us together.
+So, if you have troubles with domains somewhere in Russia, let's [start](https://adminpays.com/contact/) your legal journey with us together.
 
 
 [documentation]: docs/README.md
