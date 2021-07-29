@@ -21,6 +21,8 @@ sitemap: false
 * We regularly share our knowledge with others (see e.g. [this article](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) of our team member).
 * We use the [legal database](https://github.com/xCounsel/kardamon/tree/master/English/premium) on domain disputes in Russia.
 
+So, do you have some troubles with domains somewhere in Russia? Well, let's [start](https://adminpays.com/contact/) your legal journey with us together.
+
 
 [documentation]: docs/README.md
 [install]: docs/install.md
