@@ -4,13 +4,6 @@ title: Get a compensation from a domain owner in Russia!
 sitemap: false
 ---
 
-----
-
-THE SITE IS UNDER CONSTRUCTION <br/>
-and cannot be used now for any services or purposes until its launch
-
----
-
 
 # Some facts about domain disputes in Russia
 
@@ -19,11 +12,10 @@ and cannot be used now for any services or purposes until its launch
 * A domain owner and/or an admin of disputed domian name may be found liable for the infringement.
 * 
 
-
 # Why were we chosen to do this
 
 * We have unique knowledge: we have analyzed more than 250 domain disputes for a long time period. 
-* We know: (1) actual court practice trends and (2) what factors should a claimant use to claim huge compensation.
+* We know actual court practice trends and what factors one should use to claim a huge compensation.
 * We regularly share our knowledge with others (see e.g. [this article](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) of our team member).
 * We use the [legal database](https://github.com/xCounsel/kardamon/tree/master/English/premium) on domain disputes in Russia.
 
