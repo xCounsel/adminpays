@@ -4,7 +4,12 @@ title: Get a compensation from a domain owner or admin in Russia!
 sitemap: false
 ---
 
-Thank you for buying the PRO version of Hydejack! 🎉
+----
+
+THE SITE IS UNDER CONSTRUCTION
+and cannot be used now for any services or purposes until its launch
+
+---
 
 More than one year ago I was looking for a blogging platform but couldn't find it:
 One that would let me write posts in markdown with my own editor,
