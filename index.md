@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Get a compensation from a domain owner or admin in Russia!
+title: Get a compensation from a domain owner in Russia!
 sitemap: false
 ---
 
@@ -11,40 +11,17 @@ and cannot be used now for any services or purposes until its launch
 
 ---
 
-More than one year ago I was looking for a blogging platform but couldn't find it:
-One that would let me write posts in markdown with my own editor,
-one that didn't look awful buy modern design standards, and one that felt snappy on a mobile phone.
-That and more is now Hydejack. I hope you enjoy it [as much as I do](https://qwtel.com/).
+# Have you wished to stop your trademark rights violation by a domain owner?
 
-## First Steps
-Start by reading the [Documentation]{:.heading.flip-title}.
-Specifically, the chapters below should be relevant now:
+If so, that's a good idea. But, you are at the begining of the road. In Russia, the laws and current court practice allow you not only to force to terminate the registration of disputed domain name or transfer it to a claimant. But, a claimant also has a right to get a compensation (if a court decision is in his favor):
 
-* [Install]{:.heading.flip-title} --- How to install and run Hydejack.
-* [Config]{:.heading.flip-title} --- Once Jekyll is running you can start with basic configuration.
-{:.related-posts.faded}
 
-After you've familiarized yourself with Hydejack, you can delete the following folders and files
-containing example content:
+_**Article 1515. Liability for the Illegal Use of a Trademark:**
+4. The right holder is entitled to demand, at his/its option, that the infringer pays compensation instead of reimbursement of damages:
+1) in the amount of 10,000 to 5,000,000 roubles at the court's discretion on the basis of the nature of the infringement;_
 
-~~~
-├── _featured_categories
-│   └── example.md
-├── _projects
-│   └── *
-├── docs
-├── example
-├── licenses
-├── assets
-│   └── img
-│       ├── blog
-│       ├── docs
-│       └── projects
-├── CHANGELOG.md
-├── forms-by-example.md
-├── LICENSE.md
-└── NOTICE.md
-~~~
+How much this is in US dollars one can find [here](https://www.xe.com/currencyconverter/convert/?Amount=1&From=RUB&To=USD).
+
 
 [documentation]: docs/README.md
 [install]: docs/install.md
