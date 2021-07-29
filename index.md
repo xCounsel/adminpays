@@ -6,7 +6,7 @@ sitemap: false
 
 ----
 
-THE SITE IS UNDER CONSTRUCTION
+THE SITE IS UNDER CONSTRUCTION <br/>
 and cannot be used now for any services or purposes until its launch
 
 ---
