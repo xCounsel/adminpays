@@ -28,13 +28,6 @@ We try to make this manual tries to be beginner-friendly.
 * [Evidence in domain disputes]{:.heading.flip-title} --- cases excerpts from domain name disputes on evidence.
 * [Trademarks vs domain names]{:.heading.flip-title} --- what Russian courts say about trademarks and domain names.
 
-{:.related-posts.faded}
-
-## Other materials
-* [LICENSE]{:.heading.flip-title} --- The license of this project.
-* [NOTICE]{:.heading.flip-title} --- Parts of this program are provided under separate licenses.
-* [CHANGELOG]{:.heading.flip-title} --- Version history of Hydejack.
-{:.related-posts.faded}
 
 # Domain disputes in other countries
 
@@ -47,6 +40,3 @@ We try to make this manual tries to be beginner-friendly.
 [Trademarks vs domain names]: trademarks.md
 [Examples of domain names related agreements]: config.md
 [Administration of domain names]: advanced.md
-[LICENSE]: ../LICENSE.md
-[NOTICE]: ../NOTICE.md
-[CHANGELOG]: ../CHANGELOG.md
