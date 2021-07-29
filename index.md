@@ -15,7 +15,7 @@ cover:  true
 * In ~30% cases claimants did not ask any compensation (for unknown reasons).
 * In more than 15 cases the amount of compensation is equal or more than 500,000 RUR.
 
-## Why were we chosen to do this
+## Why we to be chosen for help
 
 * We have unique knowledge: we have analyzed more than 250 domain disputes for a long time period. 
 * We know actual court practice trends and what factors one should use to claim a huge compensation.
