@@ -25,8 +25,3 @@ sitemap: false
 <br/>
 So, if you have troubles with domains somewhere in Russia, let's [start](https://adminpays.com/contact/) your legal journey with us together.
 
-
-[documentation]: docs/README.md
-[install]: docs/install.md
-[upgrade]: docs/upgrade.md
-[config]: docs/config.md
