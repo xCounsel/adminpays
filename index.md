@@ -1,8 +1,8 @@
 ---
 layout: welcome
 title: Claim a compensation in domain dispute!
-sitemap: false
 cover:  true
+sitemap: false
 ---
 
 
