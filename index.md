@@ -7,10 +7,9 @@ sitemap: false
 
 # Some facts about domain disputes in Russia
 
-* The laws and courts allow a claimant to terminate the registration of disputed domain name, transfer it to a claimant, claim damages or a compensation.
-* The amount of compensation may be from 10,000 to 5,000,000 roubles (how much this is in USD [see here](https://www.xe.com/currencyconverter/convert/?Amount=1&From=RUB&To=USD).
 * A domain owner and/or an admin of disputed domian name may be found liable for the infringement.
-* 
+* Among other things, the laws and courts allow a claimant to claim damages or a compensation.
+* The amount of compensation may be from 10,000 to 5,000,000 roubles (how much this is in USD [see here](https://www.xe.com/currencyconverter/convert/?Amount=1&From=RUB&To=USD)).
 
 # Why were we chosen to do this
 
