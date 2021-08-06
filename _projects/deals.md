@@ -13,7 +13,7 @@ image:
     480w:  /assets/img/projects/deals.jpg
 links:
   - title: Link
-    url: https://www.icann.org/en/registry-agreements/details/yandex?section=agreement
+    url: https://adminpays.com
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
