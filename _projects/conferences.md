@@ -3,7 +3,7 @@ layout: project
 title: 'Conferences and Workshops'
 caption: Find out, when and where we have shared with our experience as speakers.
 description: >
-   Find out, when and where we have shared with our experience as speakers. 
+   When and where we share with our experience related to domain names and domain disputes as speakers. 
 date: 1 October 2019
 image: 
   path: /assets/img/projects/gtld.jpg
