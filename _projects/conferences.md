@@ -6,11 +6,11 @@ description: >
    When and where we share with our legal experience related to domain names and domain disputes as speakers. 
 date: 1 October 2019
 image: 
-  path: /assets/img/projects/gtld.jpg
+  path: /assets/img/projects/udrp.jpg
   srcset: 
-    1920w: /assets/img/projects/gtld.jpg
-    960w:  /assets/img/projects/gtld.jpg
-    480w:  /assets/img/projects/gtld.jpg
+    1920w: /assets/img/projects/udrp.jpg
+    960w:  /assets/img/projects/udrp.jpg
+    480w:  /assets/img/projects/udrp.jpg
 links:
   - title: Link
     url: https://adminpays.com
