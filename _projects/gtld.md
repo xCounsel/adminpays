@@ -1,10 +1,10 @@
 ---
 layout: project
-title: 'Legal support for gTLDs'
-caption: Legal support for gTLDs.
+title: 'UDRP and gTLDs'
+caption: Legal support for UDRP cases and gTLDs.
 description: >
-   For a few years one member of our legal team has provided the services for his employer to legal support of its own corporate 
-date: 1 August 2014
+   How can we help in cases related to the UDRP and gTLDs  
+date: 1 August 2021
 image: 
   path: /assets/img/projects/gtld.jpg
   srcset: 
@@ -20,6 +20,14 @@ accent_image:
 theme_color: '#193747'
 sitemap: false
 ---
+
+# UDRP
+
+We also provide legal services to participate in the UDRP arbitration. We have a number of successful stories of our employers / clients. For example:
+* UDRP Case No. D2015-0363,  Yandex LLC v. Whois Privacy Protection Service, Inc. / Svetlana Taisia 
+* UDRP Case No. D2013-1657,  YANDEX LLC v. Moniker Privacy Services 
+
+# gTLDs
 
 For a few years Denis Dorotenko, one of our legal counsels, [has provided](https://itp.cdn.icann.org/en/files/registry-agreements/yandex/yandex-contacts-16jul14-en.pdf) the legal services for his employer ([Yandex](https://yandex.com/company)) to support its own corporate gTLD.
 
