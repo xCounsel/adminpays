@@ -4,7 +4,7 @@ title: 'Contracts and Deals'
 caption: Legal support for making the deals on domain names.
 description: >
    We have made a good number of deals related to domain names. 
-date: 7 September 2017
+date: 5 August 2021
 image: 
   path: /assets/img/projects/deals.jpg
   srcset: 
