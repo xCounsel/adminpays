@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Claims Management'
+title: 'Claims and Lawsuits'
 caption: Claims management.
 description: >
    Claims management. 
