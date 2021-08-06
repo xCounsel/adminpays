@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Publications'
-caption: A list of our articles and publications.
+caption: Our articles and publications on legal issues of domain names.
 description: >
    Here you can find the list of posts, articles and publications written by our legal counsels. 
 date: 20 February 2020
