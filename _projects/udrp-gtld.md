@@ -25,7 +25,7 @@ sitemap: false
 <br/>
 We also provide legal services to participate in the UDRP arbitration. We have a number of successful stories of our employers / clients. For example:
 * UDRP Case No. D2015-0363,  Yandex LLC v. Whois Privacy Protection Service, Inc. / Svetlana Taisia 
-* UDRP Case No. D2013-1657,  YANDEX LLC v. Moniker Privacy Services 
+* [UDRP Case No. D2013-1657](../../2021-07-23-udrp-d2013-1657.md){:.heading.flip-title},  YANDEX LLC v. Moniker Privacy Services 
 
 **gTLDs**<br/>
 <br/>
