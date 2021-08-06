@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Conferences and Trainings'
-caption: We share with our experience: conferences, courses, workshops, trainings, etc.
+caption: We share with our experience (conferences, courses, workshops, trainings, etc.).
 description: >
    When and where we share with our legal experience related to domain names and domain disputes as speakers. 
 date: 1 October 2019
