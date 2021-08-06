@@ -8,106 +8,141 @@ accent_image:
 accent_color: '#ccc'
 theme_color: '#ccc'
 description: >
-  Version 9.1 provides minor design changes, new features, and closes multiple issues.
+  UDRP Case No. D2013-1657 as the example of our legal team member's skills and experience.
 invert_sidebar: true
 ---
 
-# What's New in Hydejack 9.1?
+# UDRP Case No. D2013-1657
 
-What's New in Hydejack 9.1?
+UDRP Case No. D2013-1657
 
-* toc
+WIPO Arbitration and Mediation Center
+
+ADMINISTRATIVE PANEL DECISION <br/>
+YANDEX LLC v. Moniker Privacy Services <br/>
+Case No. D2013-1657 <br/>
+
+0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
+# The Parties
 
-## Stripe-ified Design
-Most elements now have rounded borders, making the design look more modern (dare I say "Stripe-ified") than ever before. 
+The Complainant is YANDEX LLC of Moscow, Russian Federation, represented internally.
 
-The goal of Hydejack was always to provide a theme that looks "designed" combined the amenities of a typical Jekyll theme for coders.
-This is an important step in maintaining this goal.
+The Respondent is Moniker Privacy Services of Pompano Beach, Florida, United States of America.
 
-At the same time, I'm introducing nerdy elements like [breadcrumbs](#serp-breadcrumbs), that are almost ornamental in nature.
-You wouldn't find these on other Stripe-like designs, but I think they are appealing to developer types like myself. 
-Like most additions to Hydejack, they can be disabled via configuration. 
+# The Domain Name and Registrar
 
+The disputed domain name <yandex.aero> is registered with Key-Systems GmbH dba domaindiscount24.com (the “Registrar”).
 
-## Inverted Sidebars
-The colors on the sidebar can now be inverted to allow brighter sidebar images. This can be enabled per-page in the fort matter:
+# Procedural History
 
-```yml
-invert_sidebar: true
-```
+The Complaint was filed with the WIPO Arbitration and Mediation Center (the “Center”) on September 23, 2013. On September 23, 2013, the Center transmitted by email to the Registrar a request for registrar verification in connection with the disputed domain name. On September 24, 2013, the Registrar transmitted by email to the Center its verification response confirming that the Respondent is listed as the registrant and providing the contact details. On September 30, 2013, the Center requested the Registrar to clarify the contact details of the Respondent. In response, on September 30, 2013, the Registrar clarified that the registry of “.aero” domain names does not support contact updates and therefore the public WhoIs for the disputed domain name does not display the updated address of the Respondent.
 
+On September 30, 2013, the Center invited the Complainant to amend the Complaint in relation to the identification of the correct Registrar of the disputed domain name. The Complainant filed an amendment to the Complaint on October 1, 2013.
 
-## Code Block Headers
-Code blocks can now have headers:
+The Center verified that the Complaint together with the amendment to the Complaint satisfied the formal requirements of the Uniform Domain Name Dispute Resolution Policy (the “Policy” or “UDRP”), the Rules for Uniform Domain Name Dispute Resolution Policy (the “Rules”), and the WIPO Supplemental Rules for Uniform Domain Name Dispute Resolution Policy (the “Supplemental Rules”).
 
-~~~js
-// file: 'hello-world.js'
-console.log('Hello World!');
-~~~
+In accordance with the Rules, paragraphs 2(a) and 4(a), the Center formally notified the Respondent of the Complaint, and the proceedings commenced on October 2, 2013. The Center sent all its communications to the Respondent to its address according to the public WhoIs records for the disputed domain name and to its address as provided by the Registrar. In accordance with the Rules, paragraph 5(a), the due date for Response was October 22, 2013. The Respondent did not submit any response. Accordingly, the Center notified the Respondent’s default on October 23, 2013.
 
-Headers are added by making the first line a comment of the form `(file|title): ['"].*['"]`, e.g.:
+The Center appointed Assen Alexiev as the sole panelist in this matter on November 11, 2013. The Panel finds that it was properly constituted. The Panel has submitted the Statement of Acceptance and Declaration of Impartiality and Independence, as required by the Center to ensure compliance with the Rules, paragraph 7.
 
-    ~~~js
-    // file: 'hello-world.js'
-    console.log('Hello World!');
-    ~~~
-    
-Code blocks with and without headers now also come with a copy button. 
-In the case of header-less code blocks, the button only shows on hover to prevent potential overlap.
+# Factual Background
 
+The Complainant is the owner of the following trademarks (the “YANDEX trademarks”):
 
-## Resume Download Buttons
-Resumes can now have download buttons:
+- The word trademark YANDEX with registration No. 225,163, registered for the territory of the Russian Federation on October 17, 2002, for goods and services in International Classes 01-42;
 
-![Download Buttons](/assets/img/blog/9.1.0-3.png){:.border.lead width="1776" height="258" loading="lazy"}
+- The word trademark YANDEX with registration No. 298,734, registered for the territory of the Russian Federation on November 29, 2005, for services in International Classes 43-45;
 
-Resumes can now have download buttons.
-{:.figcaption}
+- The international word trademark YANDEX with registration No. 820,785, registered for the territory of 24 countries on November 10, 2003, for goods and services in International Classes 9, 16, 18, 35, 36, 38, 39, 41 and 42;
 
-The documentation has been updated with a chapter on [how to configure the buttons](/docs/basics/#downloads).
+- The word trademark ЯNDEX registered for the territory of the Russian Federation as a well-known trademark with registration No. 72 on December 19, 2007 and recognized as well-known as of January 1, 2002, for services in International Classes 35 and 38;
 
+- The word trademark YANDEX with registration No. 3,140,852 registered for the territory of the United States of America on September 12, 2006, for services in International Classes 38 and 42.
 
-## SERP Breadcrumbs
-Added breadcrumbs above page title:
+The disputed domain name was registered on July 7, 2008.
 
-![Breadcrumbs](/assets/img/blog/9.1.0-2.png){:.border.lead width="1588" height="164" loading="lazy"}
+# Parties’ Contentions
 
-Bread crumbs are now shown above each page title.
-{:.figcaption}
+## Complainant
 
-Note that this requires a [directory-like URL structure](https://qwtel.com/posts/software/urls-are-directories/) on your entire site, 
-otherwise the intermediate links will point to nonexisting sites.
+The Complainant contends that it first began using the YANDEX trademarks in connection with its own Yandex.Mail, Yandex.Auto, and Yandex.Timetables Internet services, its Yandex.Elements and Yandex.Disk software products, and its Yandex.Browser and Yandex.Maps mobile applications. For the same purposes the Complainant has registered a number of domain names containing the term “yandex”, such as <yandex.ru>, <yandex.mobi> and <yandex.com.tr>.
 
-On a side note, Hydejack now has built-in tooltips for abbreviations like SERP (activated via tap/click).
-See [Example Content](/blog/hyde/2012-02-07-example-content/#inline-html-elements) on how to add them to your content.
+The Complainant submits that on March, 26, 2013, it sent a cease and desist letter to the Respondent and requested the transfer of the disputed domain name. The Respondent did not reply to the Complainant. Later, the content of the website at the disputed domain name was removed.
 
+The Complainant contends that the disputed domain name is identical to the Complainant’s YANDEX trademarks, which it incorporates entirely. The only difference between them is the addition of the generic Top-Level Domain (“gTLD”) suffix “.aero”, which does not distinguish the disputed domain name from these trademarks.
 
-## Last Modified At
-Blog posts can now have a "last modified at" date in the sub title row.
+The Complainant maintains that the Respondent has no rights or other legitimate interests in the disputed domain name. Neither the Respondent’s name, nor the name of any business interest of the Respondent appearing in the WhoIs records for the disputed domain name show any connection to the term “yandex”. The term “yandex” is commonly used to refer only to the Complainant and its services, software products and mobile applications, and the disputed domain name was registered by the Respondent long after the Complainant established its rights in the YANDEX trademarks. The Respondent has not been granted a license or any other permission to use the Complainant’s YANDEX trademarks. The Respondent does not make any noncommercial or fair use of the disputed domain name. Instead, the Respondent uses it for commercial gain for the offering of booking services and promotional links to websites of third parties (Annex 7 to the Complaint).
 
-![Last modified at](/assets/img/blog/9.1.0-1.png){:.border.lead width="1254" height="218" loading="lazy"}
+The Complainant submits that the Respondent has registered and used the disputed domain name in bad faith because of its similarity to the Complainant’s trademark. The purpose of the registration was to disrupt the business of the Complainant and to attempt to attract Internet users to the Respondent’s website by creating a likelihood of confusion with the Complainant’s YANDEX trademarks as to the source, sponsorship, affiliation or endorsement of the Respondent’s website. The disputed domain name was registered long after the Complainant established its rights in the YANDEX trademarks and after the release of the Complainant’s Yandex.Timetables service. After the registration of the disputed domain name, the Respondent started to use it in relation to a commercial website, which contained promotional links for booking of transportation tickets and hotels and promotional weather links to websites not associated with or authorized by the Complainant.
 
-Note that this depends on the `last_modified_at` property of the page, which must be either set manually in the frontmatter (not recommended), or via a plugin like [`jekyll-last-modified-at`](https://github.com/gjtorikian/jekyll-last-modified-at). Note that the later is not available when building on GitHub Pages and can increase build times.
+## Respondent
 
+The Respondent did not reply to the Complainant’s contentions.
 
-## Clap Button Preview
-I've been trying something new with [**getclaps.app**](https://getclaps.app/), a feedback and analytics tool for personal sites like those powered by Hydejack. 
-It looks like this:
+# Discussion and Findings
 
-<clap-button style="--clap-button-color:var(--body-color);margin:2rem auto 3rem;width:3rem;height:3rem;font-size:smaller" nowave></clap-button>
+Pursuant to Policy, paragraph 4(a), the Complainant must prove each of the following to justify the transfer of the disputed domain name:
 
-It is a separate product from Hydejack and not enabled by default. Because it depends on a backend component, it requires a monthly fee. 
-If enabled, it is placed below posts and pages where the dingbat character (❖) used to be.
+(i) the disputed domain name is identical or confusingly similar to a trademark or service mark in which the Complainant has rights; and
 
-I can't claim that this product is fully baked (feedback welcome), but I've been using it on my personal site and here for the last couple of months with no issues.
-For more, see [the dedicated website](https://getclaps.app/).
+(ii) the Respondent has no rights or legitimate interests in respect of the disputed domain name; and
 
-***
-{:style="margin:2rem 0"}
+(iii) the Respondent has registered and is using the disputed domain name in bad faith.
 
-There are many more changes and bugfixes in 9.1. See the [CHANGELOG](/changelog/){:.heading.flip-title} for details.
+In this case, the Center has employed the required measures to achieve actual notice of the Complaint to the Respondent, in compliance with Rules, paragraph 2(a), and the Respondent was given a fair opportunity to present its case.
+
+By Rules, paragraph 5(b)(i), it is expected of a respondent to: “[r]espond specifically to the statements and allegations contained in the complaint and include any and all bases for the Respondent (domain name holder) to retain registration and use of the disputed domain name…”
+
+In the event of a default, under Rules, paragraph (14)(b): “…the Panel shall draw such inferences therefrom as it considers appropriate.”
+
+As stated by the panel in Mary-Lynn Mondich and American Vintage Wine Biscuits, Inc. v. Shane Brown, doing business as Big Daddy’s Antiques, WIPO Case No. D2000-0004: “Here, the potential evidence of good faith registration and use was in respondent’s control. Respondent’s failure to present any such evidence or to deny complainant’s allegations allows an inference that the evidence would not have been favorable to respondent.” As stated by the panel in Viacom International Inc. v. Ir Suryani, WIPO Case No. D2001-1443: “Since the Respondent has not submitted any evidence and has not contested the contentions made by the Complainant, this Panel is left to render its decision on the basis of the uncontroverted contentions made, and the evidence supplied, by the Complainant […]. In the absence of any evidence to the contrary submitted by the Respondent, this Panel accepts in large measure (but not wholly) the submitted evidence and the contended for factual and legal conclusions as proven by such evidence.”
+
+In this administrative proceeding, the Respondent’s default entitles the Panel to conclude that the Respondent has no arguments or evidence to rebut the assertions of the Complainant. The Panel has to take its decision on the basis of the statements and documents submitted by the Complainant and in accordance with the Policy, the Rules, and any rules and principles of law that it deems applicable.
+
+## Identical or Confusingly Similar
+
+The Complainant has provided evidence and has thus established its rights in the YANDEX trademarks, including the ЯNDEX trademark registered in Russia as a well-known mark.
+
+It is a common practice under the Policy to disregard in appropriate circumstances the generic Top-Level Domains (“gTLD”) such as “.aero” for the purposes of the comparison under the Policy, paragraph 4(a)(i). Therefore, the relevant part of the disputed domain name here is its “yandex” section. This section is identical to the Complainant’s YANDEX trademarks, which makes it highly likely for the disputed domain name to be associated with the Complainant’s trademarks and online services.
+
+Therefore, the Panel finds that the disputed domain name is identical to the YANDEX trademarks in which the Complainant has rights, and the Complainant has established the first element of paragraph 4(a) of the Policy in relation to the disputed domain name.
+
+## Rights or Legitimate Interests
+
+The Policy requires the Complainant to make at least a prima facie showing that the Respondent has no rights or legitimate interests in the disputed domain name. Once the Complainant makes such a showing, the Respondent may provide evidence to demonstrate that it has rights or legitimate interests in the disputed domain name. The burden of proof, however, always remains on the Complainant to establish that the Respondent lacks rights or legitimate interests in the disputed domain name. See paragraph 2.1 of the WIPO Overview of WIPO Panel Views on Selected UDRP Questions, Second Edition (“WIPO Overview 2.0”).
+
+The Complainant has contended that the Respondent has no rights or legitimate interests in the disputed domain name, stating a number of arguments in this regard. Thus, Complainant has established a prima facie case that the Respondent lacks rights or legitimate interests in the disputed domain name.
+
+The Respondent, although given a fair opportunity to do so, chose not to reply to the Complainant's contentions and therefore to present to the Panel any response in accordance with the Rules, paragraph 5(b)(i) and 5(b)(ix), despite the consequences that the Panel may extract from the fact of a default (Rules, paragraph 14). If the Respondent had any legitimate reason for the registration and use of the disputed domain name, it could have brought it to the attention of the Panel. In the present case the Respondent has failed to deny the contentions of the Complainant and to contend that any of the circumstances described in Policy, paragraph 4(c), is present in its favor.
+
+Apart from the factual contentions of the Complainant, the only other sources of information about the Respondent is the WhoIs information, provided by the Registrar, and the content of the website at the disputed domain name. The WhoIs information contains no evidence that the Respondent is commonly known by the disputed domain name. The disputed domain name is identical to the YANDEX trademarks of the Complainant, which were registered several years before the registration of the disputed domain name, and the ЯNDEX trademark was declared well-known in the Russian Federation as of 2002. The Respondent’s website at the disputed domain name was used in relation to a commercial website, which contained promotional links for booking of transportation tickets and hotels and promotional weather links to websites not associated with or authorized by the Complainant. Taking all these circumstances into account, the Panel considers it quite likely that the Respondent was well aware of the Complainant and of its YANDEX trademarks, and registered the disputed domain name mainly taking into account their goodwill and value for the Complainant.
+
+The Panel therefore finds that the circumstances discussed above cannot be regarded as establishing rights or legitimate interests of the Respondent in the disputed domain name, and that the Complainant’s prima facie case has not been rebutted. Therefore, the Panel finds that the Respondent has no rights or legitimate interests in the disputed domain name.
+C. Registered and Used in Bad Faith
+
+Paragraph 4(b) of the Policy lists four illustrative alternative circumstances that shall be evidence of the registration and use of a domain name in bad faith by a respondent, namely:
+
+“(i) circumstances indicating that you have registered or you have acquired the domain name primarily for the purpose of selling, renting, or otherwise transferring the domain name registration to the complainant who is the owner of the trademark or service mark or to a competitor of that complainant, for valuable consideration in excess of your documented out of pocket costs directly related to the domain name; or
+
+(ii) you have registered the domain name in order to prevent the owner of the trademark or service mark from reflecting the mark in a corresponding domain name, provided that you have engaged in a pattern of such conduct; or
+
+(iii) you have registered the domain name primarily for the purpose of disrupting the business of a competitor; or
+
+(iv) by using the domain name, you have intentionally attempted to attract, for commercial gain, Internet users to your web site or other on-line location, by creating a likelihood of confusion with the complainant’s mark as to the source, sponsorship, affiliation, or endorsement of your website or location or of a product or service on your website or location.”
+
+As discussed above in relation to the issue of rights and legitimate interests, the Respondent is likely to have been aware of the Complainant’s YANDEX trademarks at the time of the registration of the disputed domain name, which is identical to the same trademarks. The Respondent does not appear to have any rights or legitimate interests in the disputed domain name, and the commercial website linked to it contained for a long period of time promotional links for booking of transportation tickets and hotels and promotional weather links to websites not associated with or authorized by the Complainant. Taken together, these circumstances satisfy the Panel that the Respondent, by using the disputed domain name, has intentionally attempted to attract for commercial gain Internet users to its website by creating a likelihood of confusion with the Complainant’s YANDEX trademarks as to the source, sponsorship, affiliation, or endorsement of the same website or of the services offered on it. This supports a finding of bad faith registration and use of the disputed domain name under Policy, paragraph 4(b)(iv).
+
+Therefore, and in the lack of any allegation or evidence to the contrary, the Panel finds that the Respondent has registered and used the disputed domain name in bad faith.
+
+# Decision
+
+For the foregoing reasons, in accordance with paragraphs 4(i) of the Policy and 15 of the Rules, the Panel orders that the disputed domain name <yandex.aero> be transferred to the Complainant.
+
+Assen Alexiev <br/>
+Sole Panelist <br/>
+Date: November 27, 2013
 
 
 ## Credits
