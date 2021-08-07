@@ -6,11 +6,11 @@ description: >
    A short brief about our own legal databases.  
 date: 1 August 2021
 image: 
-  path: /assets/img/projects/gtld.jpg
+  path: /assets/img/projects/databases.jpg
   srcset: 
-    1920w: /assets/img/projects/gtld.jpg
-    960w:  /assets/img/projects/gtld.jpg
-    480w:  /assets/img/projects/gtld.jpg
+    1920w: /assets/img/projects/databases.jpg
+    960w:  /assets/img/projects/databases.jpg
+    480w:  /assets/img/projects/databases.jpg
 links:
   - title: Link
     url: https://adminpays.com
