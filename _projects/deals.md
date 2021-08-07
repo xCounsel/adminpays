@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Contracts and Deals'
-caption: Our legal team also helps to make the deals on domain names - e.g., by drafting the agreements and negotiating the terms.
+caption: Our legal team helps to make the deals on domain names - e.g., by drafting the agreements and negotiating the terms.
 description: >
    We have made a good number of deals related to domain names. 
 date: 5 August 2021
