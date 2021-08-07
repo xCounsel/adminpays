@@ -3,7 +3,7 @@ layout: project
 title: 'Claims and Lawsuits'
 caption: Claims management.
 description: >
-   Claims management. 
+   We sent dozens of claims, most of them are successful. We also consult others to prepare lawsuits.  
 date: 6 August 2021
 image: 
   path: /assets/img/projects/claims.jpg
