@@ -4,7 +4,7 @@ title: 'Conferences and Trainings'
 caption: We share with our experience (conferences, courses, workshops, trainings, etc.).
 description: >
    When and where we share with our legal experience related to domain names and domain disputes as speakers. 
-date: 2 August 2021
+date: 3 August 2021
 image: 
   path: /assets/img/projects/udrp-back.jpg
   srcset: 
