@@ -4,7 +4,7 @@ title: 'Research and Publications'
 caption: Our articles and publications on legal issues of domain names and domain disputes (mostly in Russia).
 description: >
    Here you can find the list of posts, articles and publications written by our legal counsels. 
-date: 4 August 2021
+date: 3 August 2021
 image: 
   path: /assets/img/projects/articles.jpg
   srcset: 
