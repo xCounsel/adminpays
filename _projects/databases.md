@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Legal Databases'
-caption: Create and develop own legal databases, provide services based on them. Help others to create and develop them too.
+caption: We create and develop own legal databases, provide services based on them. Help others to create and develop them too.
 description: >
    A short brief about our own legal databases.  
 date: 1 August 2021
