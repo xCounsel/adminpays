@@ -4,7 +4,7 @@ title: 'UDRP and gTLDs'
 caption: Legal support for UDRP cases and gTLDs.
 description: >
    How can we help in cases related to the UDRP and gTLDs  
-date: 1 August 2021
+date: 2 August 2021
 image: 
   path: /assets/img/projects/gtld.jpg
   srcset: 
