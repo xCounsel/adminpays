@@ -1,6 +1,6 @@
 ---
 layout: project
-title: 'Legal Databases'
+title: 'Legal Databases and Data Analytics'
 caption: We create and develop own legal databases, provide services based on them. Help others to do the same.
 description: >
    A short brief about our own legal databases.  
