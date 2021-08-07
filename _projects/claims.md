@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Claims and Lawsuits'
-caption: We draft, send and manage claims and lawsuits related to domain name disputes, also as the docs for the UDRP.
+caption: We draft, send and manage the claims, lawsuits and other docs on domain name disputes (including the UDRP).
 description: >
    We sent dozens of claims, most of them are successful. We also consult others to prepare lawsuits.  
 date: 6 August 2021
