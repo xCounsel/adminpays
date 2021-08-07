@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Contracts and Deals'
-caption: Legal support for making the deals on domain names.
+caption: We also provide the services to handle legal issues on the deals related to domain names (in part, draft and negotiate the terms and conditions of the agreements).
 description: >
    We have made a good number of deals related to domain names. 
 date: 5 August 2021
