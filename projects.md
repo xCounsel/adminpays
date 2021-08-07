@@ -1,8 +1,8 @@
 ---
 layout: projects
-title: Projects
+title: What we do
 show_collection: projects
 description: >
-  Hi there! You can find the details on our experience related to domain names below. 
+  Hi there! You can find below the details on our legal team's experience and services related to domain names and domain disputes. 
 no_groups: true
 ---
