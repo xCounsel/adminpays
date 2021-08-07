@@ -50,14 +50,14 @@ author:
 menu:
   - title:             Blog
     url:               /blog/
-  - title:             Projects
+  - title:             What we do
     url:               /projects/
   - title:             Documentation
     url:               /docs/
+  - title:             Who we are
+    url:               /
   - title:             Contact us
     url:               /contact/    
-  - title:             About
-    url:               /
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
