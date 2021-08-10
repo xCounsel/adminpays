@@ -60,4 +60,4 @@ In Russia there were a lot of domain disputes, where the individuals (domain own
 
 If an individual enterpreneur or a compnay plans to distribute any product and being at the stage of making the deal under Russian law with its manufacturer, such businessman or legal entity should negotiate a number of legal issues related to domain names. Or else it can be found liable for intellectual property violation of the manufacturer rights by just administering a domain name related to such distribution.
 
-*published in Russian at [GARANT.RU)](http://www.garant.ru/ia/opinion/author/dorotenko/1105770/) in 2017*
+*published in Russian at [GARANT.RU](http://www.garant.ru/ia/opinion/author/dorotenko/1105770/) in 2017*
