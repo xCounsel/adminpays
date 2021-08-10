@@ -21,8 +21,16 @@ theme_color: '#193747'
 sitemap: false
 ---
 
+0. this unordered seed list will be replaced by toc as unordered list
+{:toc}
+
+# in English
+
 * 2020 - [Domain names disputes: how to get the most compensation in Russian courts](http://dorotenko.pro/domain-disputes-in-russia-wtr/) *(World Trademark Review)*
-* 2019 - [So Different Domain Disputes. On Compensations](http://dorotenko.pro/ru/publication-domain-disputes-on-compensation/) *(Vestnik Ekonomicheskogo Pravosudiya, N 10/2019)*
-* 2019 - [The "cultural" domain disputes: how the theaters struggle with tickets resellers and the illegal use of their trademarks in the courts](http://dorotenko.pro/ru/domain-disputes-theatres/) *(EG-Yurist N 34 (1085) 2019)*
-* 2019 - [Administrators of domain names as the defendants in domain disputes](http://dorotenko.pro/ru/domain-admin-liability/) *(GARANT.RU)*
-* 2017 - [Responsibility in 3D: a distributor, a dealer, a domain](http://dorotenko.pro/ru/dealers-and-domains/) *(GARANT.RU)*
+
+# in other languages
+
+* 2019 - [RU] [So Different Domain Disputes. On Compensations](http://dorotenko.pro/ru/publication-domain-disputes-on-compensation/) *(Vestnik Ekonomicheskogo Pravosudiya, N 10/2019)*
+* 2019 - [RU] [The "cultural" domain disputes: how the theaters struggle with tickets resellers and the illegal use of their trademarks in the courts](http://dorotenko.pro/ru/domain-disputes-theatres/) *(EG-Yurist N 34 (1085) 2019)*
+* 2019 - [RU] [Administrators of domain names as the defendants in domain disputes](http://dorotenko.pro/ru/domain-admin-liability/) *(GARANT.RU)*
+* 2017 - [RU] [Responsibility in 3D: a distributor, a dealer, a domain](http://dorotenko.pro/ru/dealers-and-domains/) *(GARANT.RU)*
