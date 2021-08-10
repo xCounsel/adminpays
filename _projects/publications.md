@@ -27,7 +27,7 @@ Our articles and publications on legal issues of domain names and domain dispute
 
 ### [**Domain names disputes: how to get the most compensation in Russian courts**](http://dorotenko.pro/domain-disputes-in-russia-wtr/) 
 
-We analyzed recent Russian court practice on domain disputes and looked at the amount of compensations awarded by courts in favor of plaintiffs. The analysis, based on our [own database](/projects/databases.md), identifies factors that could directly affect such compensation in Russian courts. <br/>
+We analyzed recent Russian court practice on domain disputes and looked at the amount of compensations awarded by courts in favor of plaintiffs. The analysis, based on our [own database](/projects/databases), identifies factors that could directly affect such compensation in Russian courts. <br/>
 
 *published at [World Trademark Review](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) in 2020* <br/> 
 
