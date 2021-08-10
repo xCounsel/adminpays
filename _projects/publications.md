@@ -32,7 +32,27 @@ We analyzed recent Russian court practice on domain disputes and looked at the a
 
 # in other languages
 
-* 2019 - [RU] [So Different Domain Disputes. On Compensations](http://dorotenko.pro/ru/publication-domain-disputes-on-compensation/) *(Vestnik Ekonomicheskogo Pravosudiya, N 10/2019)*
-* 2019 - [RU] [The "cultural" domain disputes: how the theaters struggle with tickets resellers and the illegal use of their trademarks in the courts](http://dorotenko.pro/ru/domain-disputes-theatres/) *(EG-Yurist N 34 (1085) 2019)*
-* 2019 - [RU] [Administrators of domain names as the defendants in domain disputes](http://dorotenko.pro/ru/domain-admin-liability/) *(GARANT.RU)*
+### [**So Different Domain Disputes. On Compensations**](http://dorotenko.pro/ru/publication-domain-disputes-on-compensation/) <br/>
+
+This article as the same above, published in Russian. We verified hypotheses and discovered initially unknown correlations to look more deeply at the Russian domain disputes picture as a whole - including determining the ‘average bill’ for plaintiffs in such cases. <br/>
+
+*published in Russian at [Vestnik Ekonomicheskogo Pravosudiya](https://igzakon.ru/magazine535), N 10/2019 in 2019*
+
+<br/>
+
+### [**The "cultural" domain disputes: how the theaters struggle with tickets resellers and the illegal use of their trademarks in the courts**](http://dorotenko.pro/ru/domain-disputes-theatres/) <br/>
+
+This article is about legal battles between cultural organizations (theaters, etc.) and the resellers who resell their e-tickets. Here you can find the decisions taken by the courts against domain administrators who mislead users, and what amounts of compensation plaintiffs can expect in such disputes. <br/>
+
+*published in Russian at [EG-Yurist N 34](https://www.eg-online.ru/article/405291/) (1085) 2019 in 2019*
+
+<br/>
+
+### [Administrators of domain names as the defendants in domain disputes](http://dorotenko.pro/ru/domain-admin-liability/)
+In Russia there were a lot of domain disputes, where the individuals (domain owners or administrators) were involved and found liable. We proposed to understand when and for what actions a person (a domain administrator) can be held liable in domain disputes. <br/>
+
+*published in Russian at [GARANT.RU)](https://www.garant.ru/ia/opinion/author/dorotenko/1275783/) (1085) 2019 in 2019*
+
+<br/>
+
 * 2017 - [RU] [Responsibility in 3D: a distributor, a dealer, a domain](http://dorotenko.pro/ru/dealers-and-domains/) *(GARANT.RU)*
