@@ -52,7 +52,7 @@ This article is about legal battles between cultural organizations (theaters, et
 ### [Administrators of domain names as the defendants in domain disputes](http://dorotenko.pro/ru/domain-admin-liability/)
 In Russia there were a lot of domain disputes, where the individuals (domain owners or administrators) were involved and found liable. We proposed to understand when and for what actions a person (a domain administrator) can be held liable in domain disputes. <br/>
 
-*published in Russian at [GARANT.RU)](https://www.garant.ru/ia/opinion/author/dorotenko/1275783/) in 2019*
+*published in Russian at [GARANT.RU](https://www.garant.ru/ia/opinion/author/dorotenko/1275783/) in 2019*
 
 <br/>
 
