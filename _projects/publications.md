@@ -1,7 +1,7 @@
 ---
 layout: project
 title: 'Research and Publications'
-caption: Our articles and publications on legal issues of domain names and domain disputes (mostly in Russia).
+caption: Our articles and publications on legal issues of domain names and domain disputes (mostly held in Russia).
 description: >
    Here you can find the list of posts, articles and publications written by our legal counsels. 
 date: 1 August 2021
@@ -21,8 +21,7 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
+Our articles and publications on legal issues of domain names and domain disputes (mostly held in Russia).
 
 # in English
 
