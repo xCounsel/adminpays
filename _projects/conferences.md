@@ -21,13 +21,24 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-
 We regularly participate in different public legal meetings and events both as speakers and an attendees. It helps us to share with our own knowledge and get very useful feedback. 
 
-There are a list of conferences, where we were speakers with our presentations and reports on legal issues related to domain names and domain disputes:
-* 2019 - [Protection of Intellectual Property Rights](https://en.bwforum.ru/conference/intellectual-property2019#rec125640790) (Moscow, Russia)
-* 2019 - [IT-Lawyers Discussion Club](http://dorotenko.pro/ru/kardamon-report-for-itldc/) (Moscow, Russia)
+# Conferences and workshops
 
+There are a list of conferences, where we were speakers with our presentations and reports on legal issues related to domain names and domain disputes:
+
+### in English
+
+* 2019 - [Protection of Intellectual Property Rights](https://en.bwforum.ru/conference/intellectual-property2019#rec125640790) (Moscow, Russia)
+
+### in other languages
+
+* 2019 - [IT-Lawyers Discussion Club](http://dorotenko.pro/ru/kardamon-report-for-itldc/) (Moscow, Russia) 
+
+<br/>
+
+
+# Courses and trainings
 
 The courses, trainings and educational process are integral part of any legal practice. In part, in collaboration with Legal Academy together, we have prepared a number of training videos on legal issues of domain names disputes in Russia, e.g.:
 * [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751)
