@@ -41,5 +41,8 @@ There are a list of conferences, where we were speakers with our presentations a
 # Courses and trainings
 
 The courses, trainings and educational process are integral part of any legal practice. In part, in collaboration with Legal Academy together, we have prepared a number of training videos on legal issues of domain names disputes in Russia, e.g.:
-* [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751)
-* [Registrars and disputes](https://lfacademy.ru/course/2658206)
+
+### [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751)
+Discover, what foreign companies and for what domains sued in Russian courts? Who where successful and for what reasons? You can answers on these questions and get other facts. For example, the plaintiffs from the USA are more sucessful than the plaintiffs from Germany.
+
+### [Registrars and disputes](https://lfacademy.ru/course/2658206)
