@@ -7,7 +7,7 @@ sitemap: false
 permalink: /contact/
 ---
 
-Hi there! If you have any questions, issues, notices or problems related to domain names or domain disputes in Russia, send them us by using this form below. We try to answer you as soon as possible (ususally it may cover a couple of days). Have a good day!
+Hi there! If you have any questions, issues, notices or problems related to domain names or domain disputes (for example, in Russia or the CIS), send them us by using this form below. We try to answer you as soon as possible (ususally it may cover a couple of days). Have a good day!
 
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdoypgpd" method="post">
   <fieldset id="fs-frm-inputs">
