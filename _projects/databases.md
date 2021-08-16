@@ -21,6 +21,9 @@ theme_color: '#193747'
 sitemap: false
 ---
 
+One of the most complex legal issues in domain disputes - to specify the most suitable amount of compensation to claim in the lawsuit. <br/>
+For example, in Russia the law allows to a plaintiff to claim the amount in the range from 10 000 RUR till 5 000 000 RUR for a separate violation of intellectual property rights (e.g., trademark rights). 
+
 [Kardamon.Premium](https://github.com/xCounsel/kardamon/tree/master/English/premium) <br/>
 
 more details coming soon
