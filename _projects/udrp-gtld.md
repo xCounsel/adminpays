@@ -33,3 +33,8 @@ We also provide legal services to participate in the UDRP arbitration. We have a
 
 For a few years Denis Dorotenko, one of our legal counsels, [has provided](https://itp.cdn.icann.org/en/files/registry-agreements/yandex/yandex-contacts-16jul14-en.pdf) the legal services for his employer ([Yandex](https://yandex.com/company)) to support its own corporate new gTLD.
 
+### Meanings of the gTLDs and new gTLDs
+
+* A TLD means the highest level of a domain name (like ".com" in the adminpays.com domain name) and usually represents its purpose (like how ".aero" is used for the websites related to air companies, flights, etc.). 
+* gTLD means general TLD - any TLD with generic purpose (not means the TLD related to any country or region) like as ".com", ".org", ".net", etc.
+* new gTLD means a new generic top level domain (gTLD) - like ".berlin", ".club" and any other one that become available under the [ICANN New gTLDs Program](https://newgtlds.icann.org/en/)
