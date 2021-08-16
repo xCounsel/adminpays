@@ -9,7 +9,7 @@ permalink: /contact/
 
 Hi there! If you have any questions, issues, notices or problems related to domain names or domain disputes in Russia, send them us by using this form below. We try to answer you as soon as possible (ususally it may cover a couple of days). Have a good day!
 
-<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/{form_id}" method="post">
+<form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdoypgpd" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Your name</label>
     <input type="text" name="name" id="full-name" placeholder="John Doe" required="">
@@ -129,6 +129,3 @@ Hi there! If you have any questions, issues, notices or problems related to doma
 }
 </style>
 
-----
-
-https://formspree.io/library/simple-contact-form/
