@@ -21,4 +21,6 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-Among other legal duties, we have drafted a good number of the agreements and participated in negotiations on the deals related to domain names (e.g. their acquisition, sales, transfer rights on them). Almost all of such deals are confidential, so we may not publish the details here. Neverhteless, we hope, that other info published here help you to understand our legal experience related to domain names. So, we are ready to provide corresponding services and share our experience with you. 
+Among other legal duties, we have drafted a good number of the agreements and participated in negotiations on the deals related to domain names (e.g. their acquisition, sales, transfer rights on them). Almost all of such deals are confidential, so we may not publish the details here. 
+
+Neverhteless, we hope, that other info published here help you to understand our legal experience related to domain names. So, we are ready to provide corresponding services and share our experience with you. 
