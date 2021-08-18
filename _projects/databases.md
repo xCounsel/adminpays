@@ -21,8 +21,21 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-One of the most complex legal issues in domain disputes - to specify the most suitable amount of compensation to claim in the lawsuit. <br/>
-For example, in Russia the law allows to a plaintiff to claim the amount in the range from 10 000 RUR till 5 000 000 RUR for a separate violation of intellectual property rights (e.g., trademark rights). 
+## Why we analyze the legal data
+
+A lawyer cannot avoid the legal data analysis to solve complex legal issues now. Both counsulters and inhouse counsels should know actual legal practice (court and antitrust cases, an industry best practices and so on). But if your manager asks you to claim a compensation for your company, what you should do? How will you define the right amount of it? And why you sure that your choice is absolutely right?
+
+In addition, we often read and hear about legal data and legaltech: data collection ([what, where and why](https://www.legaltechnologist.co.uk/legal-data-what-where-and-why/)), data marketplaces (where [buy legal data](https://datarade.ai/data-categories/legal-data)) or even get the data via API (yes, legal APIs do [exist](https://legal.thomsonreuters.com/en/products/legal-api)). All of such ways and offerings say the following: legal data is important knwoledge to solve complex and unusual matters, to make the business more effective.
+
+That's the answer, why we do the same - collect the data, analyse it and provide the info based on the results of such analysis.
+
+## What the data we analyze
+
+One of the most complex legal issues in domain disputes - to specify the most suitable amount of compensation to claim in the lawsuit. For example, in Russia the law allows to a plaintiff to claim the amount in the range from 10 000 RUR till 5 000 000 RUR for a separate violation of intellectual property rights (e.g., trademark rights).
+
+In respect to domain disputes, we analyze Russian court practice (since 2002 year till now): who claims and for what reasons, who and how is successful. In other words, we are the ones who know what factors affect the amount of possible compensation awarded by courts - just our dashboards directly say us about it! _See the screenshot above._
+
+
 
 [Kardamon.Premium](https://github.com/xCounsel/kardamon/tree/master/English/premium) <br/>
 
