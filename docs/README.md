@@ -14,7 +14,7 @@ Here you can discover useful materials (such as articles, court cases excerpts, 
 
 # Domain disputes in Russia
 
-In this section you can find the info related to domain disputes in Russia: articles, guides, court cases excerpts and so on. Hope, this info would be useful for you. If 
+In this section you can find the info related to domain disputes in Russia: articles, guides, court cases excerpts and so on. Hope, this info would be useful for you.
 
 ## Articles and Guides
 * [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover, how to get the most compensation.
