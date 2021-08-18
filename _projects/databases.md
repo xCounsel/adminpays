@@ -21,9 +21,9 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-<br/>
+Here you can find out, what legal data and for what reasons we analyze, and how we can be helpful for you to solve legal issues related to domain names or domain disputes. 
 
-## Why we analyze the legal data
+## Why we analyze legal data
 
 A lawyer cannot avoid the legal data analysis to solve complex legal issues now. Both counsulters and inhouse counsels should know actual legal practice (court and antitrust cases, an industry best practices and so on). But if your manager asks you to claim a compensation for your company, what you should do? How will you define the right amount of it? And why you sure that your choice is absolutely right?
 
