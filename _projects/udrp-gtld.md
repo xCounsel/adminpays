@@ -31,7 +31,7 @@ We also provide legal services to participate in the UDRP arbitration. We have a
 
 ## gTLDs and new gTLDs
 
-For a few years Denis Dorotenko, one of our legal counsels, [has provided](https://itp.cdn.icann.org/en/files/registry-agreements/yandex/yandex-contacts-16jul14-en.pdf) the legal services for his employer ([Yandex](https://yandex.com/company)) to support its own corporate new gTLD.
+For a few years one of our legal counsels [has provided](https://itp.cdn.icann.org/en/files/registry-agreements/yandex/yandex-contacts-16jul14-en.pdf) the legal services for his employer to support its own corporate new gTLD.
 
 ### Meanings of the gTLDs and new gTLDs
 
