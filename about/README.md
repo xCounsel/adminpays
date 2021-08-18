@@ -13,8 +13,12 @@ Hi there, here we go! [**Adminpays.com**](https://adminpays.com/) is internation
 
 ## Why we to be chosen for help
 
+## Why adminpays?
 
+That's easy. As we discovered, there are a plenty of domain disputes, where the domain administrators (instead of the domain owners or with them) were found liable. So, if a court decides a domain admin is liable, awards a compensation (or to pay the damages), this domain admin should pay the money to the plaintiff. Is the admin liable? He pays. Admin pays.
 
-Please let us know [here](https://adminpays.com/contact). 
+## Be in touch
+
+To contact us, just write us [here](https://adminpays.com/contact). 
 
 
