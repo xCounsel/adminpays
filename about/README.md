@@ -7,9 +7,14 @@ sitemap: false
 permalink: /about/
 ---
 
-Here you can discover useful materials (such as articles, court cases excerpts, agreements' templates, etc.) related to domain names disputes. Should you think something is missing or discover a mistake in the docs (or a bug in general), please let us know [here](https://adminpays.com/contact). 
+## Who we are
 
-0. this unordered seed list will be replaced by toc as unordered list
-{:toc}
+Hi there, here we go! [**Adminpays.com**](https://adminpays.com/) is international legal team, who have experienced in both in-houses and counsulting areas (IT/TMT/Media sectors). We combined our skills, knowledge, access to legal sources and launched this project in 2021. We sure, there are a lot of legal issues in respect to domain names and domain disputes. So, we are ready and glad to share with our knowledge, provide advice and consulting services, draft the docs and - the most valuable option - to calculate the amount of possible compensation in domain disputes. See [here](https://adminpays.com/projects/) the details, what we do.
+
+## Why we to be chosen for help
+
+
+
+Please let us know [here](https://adminpays.com/contact). 
 
 
