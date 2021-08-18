@@ -7,15 +7,14 @@ sitemap: false
 permalink: /docs/
 ---
 
-Here you can discover useful materials (such as articles, court cases excerpts, agreements' templates, etc.) related to domain names disputes. Now it is available the info related to domain disputes in Russia. Should you think something is missing or discover a mistake in the docs (or a bug in general), please let us know **here**. 
-
-We try to make this manual tries to be beginner-friendly.
-{:.note}
+Here you can discover useful materials (such as articles, court cases excerpts, agreements' templates, etc.) related to domain names disputes. Should you think something is missing or discover a mistake in the docs (or a bug in general), please let us know [here](https://adminpays.com/contact). 
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
 
 # Domain disputes in Russia
+
+In this section you can find the info related to domain disputes in Russia: articles, guides, court cases excerpts and so on. Hope, this info would be useful for you. If 
 
 ## Articles and Guides
 * [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover, how to get the most compensation.
