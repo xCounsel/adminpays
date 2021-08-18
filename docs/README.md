@@ -28,8 +28,8 @@ In this section you can find the info related to domain disputes in Russia: arti
 * [Trademarks vs domain names]{:.heading.flip-title} --- what Russian courts say about trademarks and domain names.
 
 ### Videos
-* [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751) --- what foreigners and for what domains sued, who where successful and why. 
-* [Registrars and disputes](https://lfacademy.ru/course/2658206) --- why courts in Russia do not find registrars liable for domain names violations.
+* [Foreign plaintiffs in Russian domain disputes]{:.heading.flip-title} --- what foreigners and for what domains sued, who where successful and why. 
+* [Registrars and disputes]{:.heading.flip-title} --- why courts in Russia do not find registrars liable for domain names violations.
 
 ## Domain disputes in other countries
 
@@ -42,3 +42,5 @@ In this section you can find the info related to domain disputes in Russia: arti
 [Trademarks vs domain names]: trademarks.md
 [Examples of domain names related agreements]: config.md
 [Administration of domain names]: advanced.md
+[Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751)
+[Registrars and disputes](https://lfacademy.ru/course/2658206)
