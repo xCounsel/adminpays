@@ -30,7 +30,7 @@ There are a list of conferences, where we were speakers with our presentations a
 
 ### [Kardamon: what domain disputes say](https://en.bwforum.ru/conference/intellectual-property2019#rec125640790){:.no-mark-external} 
 Here we spoke about the key of success of the Russian and foreign plaintiffs in domain disputes in Russian courts, what foreigners sued in Russia and on what domain names. We also spoke about their trademarks as success factors in such disputes, and who were awarded by courts in huge amount of compensations for violations of their trademark rights. <br/>
-![GB](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/GB.png?raw=true) _provided at [Protection of Intellectual Property Rights](https://en.bwforum.ru/conference/intellectual-property2019) (Moscow, Russia) in 2019_
+![GB ](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/GB.png?raw=true) _provided at [Protection of Intellectual Property Rights](https://en.bwforum.ru/conference/intellectual-property2019) (Moscow, Russia) in 2019_
 
 
 ### [Kardamon: the analytics of domain disputes](https://epam.ru/ru/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578){:.no-mark-external}  
