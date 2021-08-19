@@ -44,4 +44,4 @@ We have an access to the [Kardamon](https://github.com/xCounsel/kardamon/tree/ma
 
 ## Help to build your own databases
 
-We have experienced in collecting the legal data, processing and updating it. So, if you are seeking the help to build or test your own legal databases, APIs, dashboards in business intelligence systems and so on - just [contact us](https://adminpays.com/contact)! Be sure, we will find the right ways of cooperation.
+We have experienced in collecting the legal data, processing and updating it. So, if you are seeking the help to build or test your own legal databases, APIs, dashboards in business intelligence systems and so on - just [contact us](https://adminpays.com/contact){:.no-mark-external}! Be sure, we will find the right ways of cooperation.
