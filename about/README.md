@@ -27,7 +27,7 @@ That's easy. As we discovered, there are plenty of domain disputes, where the do
 
 To contact us, just write [here](https://adminpays.com/contact). We'll answer as soon as possible!
 
-[See here]: http://adminpays.com/projects
+[See here]: https://adminpays.com/projects
 [legal databases]: projects/databases.md
 [articles]: ../projects/publications
 [conferences and trainings]: projects/conferences.md
