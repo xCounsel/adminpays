@@ -29,14 +29,16 @@ There are a list of conferences, where we were speakers with our presentations a
 
 ### in English
 
-[Kardamon: what domain disputes say](https://en.bwforum.ru/conference/intellectual-property2019#rec125640790) <br/>
+[Kardamon: what domain disputes say](https://en.bwforum.ru/conference/intellectual-property2019#rec125640790){:.heading.flip-title} <br/>
 Here we spoke about the key of success of the Russian and foreign plaintiffs in domain disputes in Russian courts, what foreigners sued in Russia and on what domain names. We also spoke about their trademarks as success factors in such disputes, and who were awarded by courts in huge amount of compensations for violations of their trademark rights. <br/>
 _provided at [Protection of Intellectual Property Rights](https://en.bwforum.ru/conference/intellectual-property2019) (Moscow, Russia) in 2019_
 
 
 ### in other languages
 
-* 2019 - [IT-Lawyers Discussion Club](http://dorotenko.pro/ru/kardamon-report-for-itldc/) (Moscow, Russia) 
+[IT-Lawyers Discussion Club](https://epam.ru/ru/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578){:.heading.flip-title}  <br/>
+During this round table, we spoke on the analysis of the domain disputes in Russia: what domains are the subject of domain disputes, how many disputes related to .RU domain (and why so many), what plaintiffs (from Russia and foreign) were successful and could get compensations in the amount that they claimed for, what factors affected on such amount. More details on this meeting [here](https://dorotenko.pro/ru/kardamon-report-for-itldc/).<br/>
+_provided at [IT-Lawyers Discussion Club](https://epam.ru/ru/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578) (Moscow, Russia) in 2019_
 
 <br/>
 
