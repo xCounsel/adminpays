@@ -7,7 +7,7 @@ sitemap: false
 permalink: /docs/
 ---
 
-Here you can discover useful materials (such as articles, court cases excerpts, agreements' templates, etc.) related to domain names disputes. Should you think something is missing or discover a mistake in the docs (or a bug in general), please let us know [here](https://adminpays.com/contact). 
+Here you can discover useful materials (such as articles, court cases excerpts, agreements' templates, etc.) related to domain names disputes. Should you think something is missing or discover a mistake in the docs (or a bug in general), please let us know [here](https://adminpays.com/contact){:.no-mark-external}. 
 
 0. this unordered seed list will be replaced by toc as unordered list
 {:toc}
