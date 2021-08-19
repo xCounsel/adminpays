@@ -9,14 +9,14 @@ permalink: /about/
 
 ## Who we are
 
-Hi there, here we go! [**Adminpays.com**](https://adminpays.com/) is international legal team, who have experienced in both in-houses and counsulting areas (IT/TMT/Media sectors). We combined our skills, knowledge, access to legal sources and launched this project in 2021. We sure, there are a lot of legal issues in respect to domain names and domain disputes. So, we are ready and glad to share with our knowledge, provide advice and consulting services, draft the docs and - the most valuable option - to calculate the amount of possible compensation in domain disputes. See [here](https://adminpays.com/projects/) the details, what we do.
+Hi there, here we go! [Adminpays.com]{:.heading.flip-title} is international legal team, who have experienced in both in-houses and counsulting areas (IT/TMT/Media sectors). We combined our skills, knowledge, access to legal sources and launched this project in 2021. We sure, there are a lot of legal issues in respect to domain names and domain disputes. So, we are ready and glad to share with our knowledge, provide advice and consulting services, draft the docs and - the most valuable option - to calculate the amount of possible compensation in domain disputes. [See here]{:.heading.flip-title} the details, what we do.
 
 ## Why we to be chosen for help
 
 * We have unique knowledge: we have analyzed more than 250 domain disputes for a long time period. 
 * We know actual court practice trends and what factors one should use to claim a huge compensation.
 * We regularly share our knowledge with others (see e.g. [this article][bg].
-* We use the [legal database]{:.heading.flip-title} on domain disputes in Russia.
+* We use the [legal databases]{:.heading.flip-title} on domain disputes in Russia.
 
 
 ## Why adminpays?
@@ -27,6 +27,7 @@ That's easy. As we discovered, there are plenty of domain disputes, where the do
 
 To contact us, just write [here](https://adminpays.com/contact). We'll answer as soon as possible!
 
-
+[Adminpays.com] index.md
+[See here]: projects/README.md
 [legal database]: projects/databases.md
 [bg]:(https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) of our team member)
