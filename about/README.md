@@ -15,7 +15,7 @@ Hi there, here we go! **Adminpays.com** is international legal team, who have ex
 
 * We have unique knowledge: we have analyzed more than 250 domain disputes for a long time period. 
 * We know actual court practice trends and what factors one should use to claim a huge compensation.
-* We regularly share our knowledge with others ([articles]{:.heading.flip-title}, [conferences and trainings]{:.heading.flip-title}).
+* We regularly share our knowledge with others ([articles][research and publications], [conferences and trainings]{:.heading.flip-title}).
 * We use the [legal databases]{:.heading.flip-title} on domain disputes in Russia.
 
 
@@ -29,5 +29,5 @@ To contact us, just write [here](https://adminpays.com/contact). We'll answer as
 
 [See here]: https://adminpays.com/projects
 [legal databases]: projects/databases.md
-[articles]: ../projects/publications
+[research and publications]: ../projects/publications
 [conferences and trainings]: projects/conferences.md
