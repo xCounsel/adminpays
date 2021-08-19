@@ -29,5 +29,5 @@ To contact us, just write [here](https://adminpays.com/contact). We'll answer as
 
 [See here]: projects/README.md
 [legal databases]: projects/databases.md
-[articles] projects/publications.md
-[conferences and trainings] projects/conferences.md
+[articles]: projects/publications.md
+[conferences and trainings]: projects/conferences.md
