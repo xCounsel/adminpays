@@ -16,7 +16,7 @@ Hi there, here we go! [**Adminpays.com**](https://adminpays.com/) is internation
 * We have unique knowledge: we have analyzed more than 250 domain disputes for a long time period. 
 * We know actual court practice trends and what factors one should use to claim a huge compensation.
 * We regularly share our knowledge with others (see e.g. [this article][bg].
-* We use the [legal database](../projects/databases/){:.heading.flip-title} on domain disputes in Russia.
+* We use the [legal database]{:.heading.flip-title} on domain disputes in Russia.
 
 
 ## Why adminpays?
@@ -28,4 +28,5 @@ That's easy. As we discovered, there are plenty of domain disputes, where the do
 To contact us, just write [here](https://adminpays.com/contact). We'll answer as soon as possible!
 
 
-[bg](https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) of our team member)
+[legal database]: projects/databases.md
+[bg]:(https://www.worldtrademarkreview.com/brand-management/domain-name-disputes-in-russia-how-get-most-compensation-in-court) of our team member)
