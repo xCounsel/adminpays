@@ -45,10 +45,10 @@ During this round table, we spoke on the analysis of the domain disputes in Russ
 The courses, trainings and educational process are integral part of any legal practice. In part, in collaboration with Legal Academy together, we have prepared a number of training videos on legal issues of domain names disputes in Russia, e.g.:
 
 ### [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751){:.no-mark-external}
-Discover, what foreign companies and for what domains sued in Russian courts? Who where successful and for what reasons? You can answers on these questions and get other facts. For example, the plaintiffs from the USA are more sucessful than the plaintiffs from Germany.
+Discover, what foreign companies and for what domains sued in Russian courts? Who where successful and for what reasons? You can answers on these questions and get other facts. For example, the plaintiffs from the USA are more sucessful than the plaintiffs from Germany.<br/>
 ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU.png?raw=true) _published at [Legal Academy](https://legalacademy.ru/course/2232751) in 2019_
 
 
 ### [Registrars and disputes](https://lfacademy.ru/course/2658206){:.no-mark-external}
-Find out, what the roles the reigstrars play in Russian legal battles, and why the courts do not recognize them liable in respect to domain disputes. Also, this video explains the legal status of a registrar as an information intermediary, what they do to avoid be a defendant and found liable (as a defendant and/or an information intermediary).
+Find out, what the roles the reigstrars play in Russian legal battles, and why the courts do not recognize them liable in respect to domain disputes. Also, this video explains the legal status of a registrar as an information intermediary, what they do to avoid be a defendant and found liable (as a defendant and/or an information intermediary).<br/>
 ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU.png?raw=true) _published at [Legal Academy](https://lfacademy.ru/course/2658206) in 2019_
