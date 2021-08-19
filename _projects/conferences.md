@@ -47,7 +47,7 @@ _provided at [IT-Lawyers Discussion Club](https://epam.ru/ru/events/view/vstrech
 
 The courses, trainings and educational process are integral part of any legal practice. In part, in collaboration with Legal Academy together, we have prepared a number of training videos on legal issues of domain names disputes in Russia, e.g.:
 
-### [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751){:.no-mark-external}
+### ![RU](https://github.com/madebybowtie/FlagKit/blob/master/Assets/PNG/RU.png) [Foreign plaintiffs in Russian domain disputes](https://lfacademy.ru/course/2232751){:.no-mark-external}
 Discover, what foreign companies and for what domains sued in Russian courts? Who where successful and for what reasons? You can answers on these questions and get other facts. For example, the plaintiffs from the USA are more sucessful than the plaintiffs from Germany.
 
 ### [Registrars and disputes](https://lfacademy.ru/course/2658206){:.no-mark-external}
