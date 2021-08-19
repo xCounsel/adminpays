@@ -36,7 +36,7 @@ _provided at [Protection of Intellectual Property Rights](https://en.bwforum.ru/
 
 ### in other languages
 
-### ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU@2x.png?raw=true) [Kardamon: the analytics of domain disputes](https://epam.ru/ru/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578){:.no-mark-external}  
+### ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU@2x.png?raw=true){:.lead width="100" height="60"} [Kardamon: the analytics of domain disputes](https://epam.ru/ru/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578){:.no-mark-external}  
 During this round table, we spoke on the analysis of the domain disputes in Russia: what domains are the subject of domain disputes, how many disputes related to .RU domain (and why so many), what plaintiffs (from Russia and foreign) were successful and could get compensations in the amount that they claimed for, what factors affected on such amount. More details on this meeting [here](https://dorotenko.pro/ru/kardamon-report-for-itldc/).<br/>
 _provided at [IT-Lawyers Discussion Club](https://epam.ru/ru/events/view/vstrecha-diskussionnogo-kluba-yuristov-it-otrasli-79578) (Moscow, Russia) in 2019_
 
