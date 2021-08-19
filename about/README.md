@@ -28,6 +28,6 @@ That's easy. As we discovered, there are plenty of domain disputes, where the do
 To contact us, just write [here](https://adminpays.com/contact){:.no-mark-external}. We'll answer as soon as possible!
 
 [What we do]: https://adminpays.com/projects
-[Legal Databases and Data Analytics]: ../projects/databases.md
+[Legal Databases and Data Analytics]: ../projects/databases
 [research and publications]: ../projects/publications
 [conferences and trainings]: ../projects/conferences
