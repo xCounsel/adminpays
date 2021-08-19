@@ -9,7 +9,7 @@ permalink: /about/
 
 ## Who we are
 
-Hi there, here we go! **Adminpays.com** is international legal team, who have experienced in both in-houses and counsulting areas (IT/TMT/Media sectors). We combined our skills, knowledge, access to legal sources and launched this project in 2021. We sure, there are a lot of legal issues in respect to domain names and domain disputes. So, we are ready and glad to share with our knowledge, provide advice and consulting services, draft the docs and - the most valuable option - to calculate the amount of possible compensation in domain disputes. [See here]{:.heading.flip-title} the details, what we do.
+Hi there, here we go! **Adminpays.com** is international legal team, who have experienced in both in-houses and counsulting areas (IT/TMT/Media sectors). We combined our skills, knowledge, access to legal sources and launched this project in 2021. We sure, there are a lot of legal issues in respect to domain names and domain disputes. So, we are ready and glad to share with our knowledge, provide advice and consulting services, draft the docs and - the most valuable option - to calculate the amount of possible compensation in domain disputes. [See here]{:.heading.flip-title}{:.no-mark-external} the details, what we do.
 
 ## Why we to be chosen for help
 
