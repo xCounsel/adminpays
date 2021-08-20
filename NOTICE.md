@@ -53,6 +53,13 @@ Other photos and works:
 [41]: https://commons.wikimedia.org/wiki/File:Touch-161562.svg
 
 
+----
+
+Thanks to the [FlagKit](https://github.com/madebybowtie/FlagKit) for the flags available under the [MIT](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE) License.
+
+----
+
+
 ## Licenses
 Parts of this software are provided under separate licenses.
 
