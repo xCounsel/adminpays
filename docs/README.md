@@ -38,7 +38,7 @@ In this section you can find the info related to domain disputes in Russia: arti
 
 [Compensations and domain disputes in Russia]: compensations-Russia.md
 [Compensation amount]: compensation-amount.md
-[Evidence in domain disputes]: migration.md
+[Evidence in domain disputes]: evidence.md
 [Trademarks vs domain names]: trademarks.md
 [Examples of domain names related agreements]: config.md
 [Administration of domain names]: advanced.md
