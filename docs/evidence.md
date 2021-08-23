@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Evidence
+title: Evidence in domain disputes 
 description: >
   This page shows what things may serve as evidence in domain disputes.
 hide_description: true
