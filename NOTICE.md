@@ -5,7 +5,10 @@ sitemap: false
 
 # NOTICE
 
+Here you can find the details and additional info about copyright attributions, notices and licenses related to third party intellectual property used on this site.
 
+* this list will be replaced by the toc
+{:toc .large-only}
 
 ## Template and software 
 
@@ -14,10 +17,6 @@ Actually we use this [template](https://hydejack.com/) for our site under commer
 Hyde, hy-drawer, hy-push-state, RxJS, KaTeX, core-js, Web Animations, Modernizr, Compress HTML in Jekyll, The HTML5 Shiv, DOM4, loadCSS, Ratchet, Swipe, smoothState, Bootstrap, Atom One Light Syntax, Atom One Dark Syntax, MiniSearch, window.fetch polyfill, AbortController polyfill for abortable fetch(), ResizeObserver Polyfill, kv-storage polyfill, IntersectionObserver polyfill, Web Components Polyfills, lit-html.
 
 All of them are provided under separate licenses. To see the details on their licenses and copyright attributions, just follow the same link above.
-
-
-* this list will be replaced by the toc
-{:toc .large-only}
 
 <br/>
 
