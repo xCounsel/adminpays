@@ -9,6 +9,8 @@ permalink: /contact/
 
 Hi there! If you have any questions, issues, notices or problems related to domain names or domain disputes (for example, in Russia or the CIS), send them us by using this form below. We answer you as soon as possible (usually it may cover from two hours till a couple of days). Have a good day!
 
+We note you, by sending us email, you confirm that you have read and accept our [DISCLAIMER](../DISCLAIMER) and [PRIVACY](../PRIVACY) terms in full.
+
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/mdoypgpd" method="post">
   <fieldset id="fs-frm-inputs">
     <label for="full-name">Your name</label>
