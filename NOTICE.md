@@ -33,6 +33,7 @@ Appropriate credit as per Creative Commons licenses.
 | Photo by [Caleb George][cg]                            | [Unsplash]     | Liquify filter, patch tool, blur
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
+
 | Work (added)                                           | License        | Changes
 |:-------------------------------------------------------|:---------------|:-
 | Photo by [Mikhail Pavstyuk][ap1]                       | [Unsplash]     | None
