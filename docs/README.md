@@ -19,7 +19,7 @@ In this section you can find the info related to domain disputes in Russia: arti
 ### Articles and Guides
 * [Compensations and domain disputes in Russia]{:.heading.flip-title} --- Discover, how to get the most compensation.
 * [Examples of domain names related agreements]{:.heading.flip-title} --- Find out quite good examples of templates for the deals.
-
+* [Dispute Resolution Policy in the TLDs .RU and .РФ](https://www.nic.ru/help/dispute-resolution-policy-in-the-tlds-ru-and-rf_6846.html){:.heading.flip-title} --- from a major Russian registrars.
 
 ### Court cases excerpts
 * [Administration of domain names]{:.heading.flip-title} --- thoughts by courts about what such administration is.
