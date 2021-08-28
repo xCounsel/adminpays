@@ -27,16 +27,19 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 ## Images and icons attributions
 Appropriate credit as per Creative Commons licenses.
 
-| Work (delivered with a template)                       | License        | Changes
-|:-------------------------------------------------------|:---------------|:-
-| Photo by [Jeremy Bishop][jb]                           | [Unsplash]     | Liquify filter, blur
-| Photo by [Caleb George][cg]                            | [Unsplash]     | Liquify filter, patch tool, blur
-| [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None
-| [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition
+| Work                                                   | License        | Changes                           | Notes
+|:-------------------------------------------------------|:---------------|:----------------------------------|:-
+| Photo by [Jeremy Bishop][jb]                           | [Unsplash]     | Liquify filter, blur              | delivered with a template
+| Photo by [Caleb George][cg]                            | [Unsplash]     | Liquify filter, patch tool, blur  | delivered with a template
+| [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None                              | delivered with a template
+| [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition                       | delivered with a template
+| Photo by [Mikhail Pavstyuk][ap1]                       | [Unsplash]     | None                              | 
+
+
+
 
 | Work (added)                                           | License        | Changes
 |:-------------------------------------------------------|:---------------|:-
-| Photo by [Mikhail Pavstyuk][ap1]                       | [Unsplash]     | None
 
 
 * Photo by <a href="https://unsplash.com/@pavstyuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"></a> on <a href="https://unsplash.com/s/photos/legal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
