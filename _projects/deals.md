@@ -34,4 +34,8 @@ Well, if you are just looking for a quite good agreement and ready to prepare it
 * [Paid domain name assignment agreement](http://xn----7sbbhef7cpebbpj8b.xn--p1ai/wp-content/uploads/2015/10/%D0%94%D0%BE%D0%B3%D0%BE%D0%B2%D0%BE%D1%80-%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%B0%D1%87%D0%B8-%D0%B4%D0%BE%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B8%D0%BC%D0%B5%D0%BD%D0%B8.doc) / ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU.png?raw=true) / doc
 * [Paid domain name assignment agreement](http://reghouse.ru/upload/dogovor_vppadi.zip) (with acknowledgements) / ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU.png?raw=true) / zip
 
-In any case please take into account, these templates are third party docs and we do not provide any warranties, assurance, approvals or guarantees in respect to them until otherwise is not prescribed by the binding documents between you and us.
+In any case, please take into account, these templates are third party docs and we do not provide any warranties, assurance, approvals or guarantees in respect to them until otherwise is not prescribed by the binding documents between you and us.
+
+
+## I am interested in your legal services
+That's fine. Just describe us your issue and [send them](../contact) via email.
