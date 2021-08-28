@@ -34,7 +34,7 @@ Our ways of legal support also cover gTLD and new gTLDs as well as domain name d
 ## UDRP
 
 We also provide legal services to participate in the UDRP arbitration. We have a number of successful stories of our employers / clients. For example:
-* [UDRP Case No. D2015-0363](../../blog/example/2021-07-27-udrp-d2015-0363.md){:.heading.flip-title}, Yandex LLC v. Whois Privacy Protection Service, Inc. / Svetlana Taisia 
+* [UDRP Case No. D2015-0363](../../blog/example/2021-07-27-udrp-d2015-0363){:.heading.flip-title}, Yandex LLC v. Whois Privacy Protection Service, Inc. / Svetlana Taisia 
 * [UDRP Case No. D2013-1657](../../blog/example/2021-07-23-udrp-d2013-1657){:.heading.flip-title}, YANDEX LLC v. Moniker Privacy Services 
 
 ## gTLDs and new gTLDs
