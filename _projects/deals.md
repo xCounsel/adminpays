@@ -38,4 +38,4 @@ In any case, please take into account, these templates are third party docs and 
 
 
 ## I am interested in your legal services
-That's fine. Just describe us your issue and [send them](../contact) via email.
+That's fine. Just describe us your issue and [send it](https://adminpays.com/contact/){:.no-mark-external} via email. We will be glad to help you!
