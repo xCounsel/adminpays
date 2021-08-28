@@ -5,31 +5,29 @@ sitemap: false
 
 # NOTICE
 
+
+
+## Template and software 
+
+Actually we use this [template](https://hydejack.com/) for our site under commercial license. This template includes the software  under copyright (c) 2020 Florian Klampfer <https://qwtel.com/>, that licensed under GNU GPL version 3 or later. The details on this software and its license please [see here](https://github.com/hydecorp/hydejack-site/blob/master/NOTICE.md). In addition, this template also includes certain parts of the following software:
+
+Hyde, hy-drawer, hy-push-state, RxJS, KaTeX, core-js, Web Animations, Modernizr, Compress HTML in Jekyll, The HTML5 Shiv, DOM4, loadCSS, Ratchet, Swipe, smoothState, Bootstrap, Atom One Light Syntax, Atom One Dark Syntax, MiniSearch, window.fetch polyfill, AbortController polyfill for abortable fetch(), ResizeObserver Polyfill, kv-storage polyfill, IntersectionObserver polyfill, Web Components Polyfills, lit-html.
+
+All of them are provided under separate licenses. To see the details on their licenses and copyright attributions, just follow the same link above.
+
+
 * this list will be replaced by the toc
 {:toc .large-only}
 
-Copyright (c) 2020 Florian Klampfer <https://qwtel.com/>
+<br/>
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
-
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
-
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
-
-
-## Logo and icons attributions
+## Logo and icons
 As logo, we use [this icon](https://www.flaticon.com/free-icon/payment-method_1019607) from the icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <br/>
 And thanks to the [FlagKit](https://github.com/madebybowtie/FlagKit) for the flags available under the [MIT](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE) License.
 
+<br/>
 
-## Images attributions
+## Photos and images
 Appropriate credit as per Creative Commons licenses.
 
 | Work                                                   | License        | Changes                           | Notes
@@ -60,14 +58,6 @@ Appropriate credit as per Creative Commons licenses.
 [ap5]: https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [ap6]: https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 
-
-
-## Software licenses
-This site's [actual template](https://hydejack.com/) includes certain parts of the following software:
-
-Hyde, hy-drawer, hy-push-state, RxJS, KaTeX, core-js, Web Animations, Modernizr, Compress HTML in Jekyll, The HTML5 Shiv, DOM4, loadCSS, Ratchet, Swipe, smoothState, Bootstrap, Atom One Light Syntax, Atom One Dark Syntax, MiniSearch, window.fetch polyfill, AbortController polyfill for abortable fetch(), ResizeObserver Polyfill, kv-storage polyfill, IntersectionObserver polyfill, Web Components Polyfills, lit-html.
-
-All of them are provided under separate licenses. The details on their licenses and copyright attributions please [see here](https://github.com/hydecorp/hydejack-site/blob/master/NOTICE.md).
 
 
 
