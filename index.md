@@ -17,10 +17,10 @@ sitemap: false
 
 ## Who we are and why we 
 
-Smart lawyers who ready to help you to handle the legal issues related to domain names. In part, draft the agreement to make a domain name transfer for a reward, prepare the UDRP claim or even calculate the amount of possible compensation to claim a court for it (our unique feature based on use of the [legal databases][Legal Databases and Data Analytics]{:.heading.flip-title} on domain disputes). The full scope of our services please see [here][hr]. More details about us are on [this page].
+Smart lawyers who ready to help you to handle the legal issues related to domain names. In part, draft the agreement to make a domain name transfer for a reward, prepare the UDRP claim or even calculate the amount of possible compensation to claim a court for it (our unique feature based on use of the [legal databases][Legal Databases and Data Analytics]). The full scope of our services please see [here][hr]. More details about us are on [this page].
 
 <br/>
-So, if you have troubles with domains somewhere in Russia, let's [start](https://adminpays.com/contact/) your legal journey with us together.
+So, if you have troubles with domains somewhere in Russia, let's [start](https://adminpays.com/contact/){:.no-mark-external} your legal journey with us together.
 
 [hr]: ../projects
 [Legal Databases and Data Analytics]: ../projects/databases
