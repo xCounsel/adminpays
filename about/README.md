@@ -21,7 +21,7 @@ Hi there, here we go! **Adminpays.com** is international legal team, who have ex
 
 ## Why adminpays?
 
-That's easy. As we discovered, there are plenty of domain disputes, where the domain administrators (instead of the domain owners or with them) were found liable. So, if a court decides a domain admin is liable, it awards a compensation (or to pay the damages) for a brand owner, this domain admin should pay the money to the plaintiff. Is the admin liable? If so, he pays. Admin pays.
+That's easy. As we discovered, there are plenty of domain disputes, where the domain administrators (instead of the domain owners or with them) were found liable. So, if a court decides a domain admin is liable, it awards a compensation (or to pay the damages) for a trademark owner (a plaintiff), it means that domain admin must pay the money to this trademark owner. To sum up, is this admin liable? If so, he pays.
 
 ## Be in touch
 
