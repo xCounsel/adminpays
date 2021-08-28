@@ -24,7 +24,12 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 
-## Images and icons attributions
+## Logo and icons attributions
+As logo, we use [this icon](https://www.flaticon.com/free-icon/payment-method_1019607) from the icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>. <br/>
+And thanks to the [FlagKit](https://github.com/madebybowtie/FlagKit) for the flags available under the [MIT](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE) License.
+
+
+## Images attributions
 Appropriate credit as per Creative Commons licenses.
 
 | Work                                                   | License        | Changes                           | Notes
@@ -40,7 +45,7 @@ Appropriate credit as per Creative Commons licenses.
 | Photo by [Patrick Tomasso][ap5]                        | [Unsplash]     | None                              | 
 | Photo by [Greg Rosenke][ap6]                           | [Unsplash]     | None                              | 
 
-
+<br/>
 
 
 [jb]: https://unsplash.com/photos/1braZySlEKA
@@ -55,11 +60,6 @@ Appropriate credit as per Creative Commons licenses.
 [ap5]: https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [ap6]: https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 
-----
-
-Thanks to the [FlagKit](https://github.com/madebybowtie/FlagKit) for the flags available under the [MIT](https://github.com/madebybowtie/FlagKit/blob/master/LICENSE) License.
-
-----
 
 
 ## Software licenses
