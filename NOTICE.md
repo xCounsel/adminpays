@@ -34,27 +34,13 @@ Appropriate credit as per Creative Commons licenses.
 | [IcoMoon Icons Free Version][11] by [Keyamoon][12]     | [CC-BY-SA-4.0] | None                              | delivered with a template
 | [Touch-161562.svg][41]                                 | [CC0-1.0]      | Composition                       | delivered with a template
 | Photo by [Mikhail Pavstyuk][ap1]                       | [Unsplash]     | None                              | 
+| Photo by [Luca Bravo][ap2]                             | [Unsplash]     | None                              | 
+| Photo by [Scott Graham][ap3]                           | [Unsplash]     | None                              | 
+| Photo by [Glenn Carstens-Peters][ap4]                  | [Unsplash]     | None                              | 
+| Photo by [Patrick Tomasso][ap5]                        | [Unsplash]     | None                              | 
+| Photo by [Greg Rosenke][ap6]                           | [Unsplash]     | None                              | 
 
 
-
-
-| Work (added)                                           | License        | Changes
-|:-------------------------------------------------------|:---------------|:-
-
-
-* Photo by <a href="https://unsplash.com/@pavstyuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText"></a> on <a href="https://unsplash.com/s/photos/legal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-
-
-Other photos and works:
-* Photo by <a href="https://unsplash.com/@pavstyuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Mikhail Pavstyuk</a> on <a href="https://unsplash.com/s/photos/legal?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* Photo by <a href="https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Luca Bravo</a> on <a href="https://unsplash.com/s/photos/internet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* Photo by <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Scott Graham</a> on <a href="https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* Photo by <a href="https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Glenn Carstens-Peters</a> on <a href="https://unsplash.com/s/photos/typewriter?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* Photo by <a href="https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Patrick Tomasso</a> on <a href="https://unsplash.com/s/photos/article?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-* Photo by <a href="https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Greg Rosenke</a> on <a href="https://unsplash.com/s/photos/lighting?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-  
-     
 
 
 [jb]: https://unsplash.com/photos/1braZySlEKA
@@ -63,7 +49,11 @@ Other photos and works:
 [12]: http://keyamoon.com/
 [41]: https://commons.wikimedia.org/wiki/File:Touch-161562.svg
 [ap1]: https://unsplash.com/@pavstyuk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-
+[ap2]: https://unsplash.com/@lucabravo?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[ap3]: https://unsplash.com/@homajob?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[ap4]: https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[ap5]: https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
+[ap6]: https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 
 ----
 
