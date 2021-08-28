@@ -58,6 +58,12 @@ Appropriate credit as per Creative Commons licenses.
 [ap6]: https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 
 
+## Other materials
+
+Our privacy policy is based on the Juro Privacy Notice [template](https://github.com/juro-privacy/free-privacy-notice) developed by Juro Online Limited and Stefania Passera.
+
+
+
 
 
 
