@@ -3,7 +3,7 @@ layout: plain
 sitemap: false
 ---
 
-# LEGAL DISCLAIMER
+# Adminpays.com Legal Disclaimer
 
 The information available on this Adminpays.com site, including any intellectual property, is for general information purposes only and should not be taken as legal advice or opinion. Others may not distribute, copy or use it, if otherwise is not prescribed by applicable laws. Applicable laws mean actual Russian laws only. This site does not constitute a contract offer, a contract amendment, or an acceptance of a contract offer. E-mail may be susceptible to data corruption, interception, unauthorized amendment, tampering and virus, and we do not accept liability for any such corruption, interception, amendment, tampering or virus or the consequences thereof. 
 
