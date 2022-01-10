@@ -28,7 +28,7 @@ Since the number of domain disputes is not decreasing, and individuals will cont
 
 First, let's define the terminology. In Russian court practice, a definition has already been given who should be recognized as a domain name administrator: 
 
-> "**Domain administrator** is a person, individual entrepreneur or legal entity for which the domain name is registered".
+> "**Domain administrator** is a person, individual entrepreneur or legal entity for which the domain name is registered". <br/>
 > <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub> <br/>
 > <sub>**decision of the Primorsky Krai Arbitration Court dated July 4, 2018 in case No. A51-4335/2018**</sub> <br/>
 > <sub>**decision of the Moscow Arbitration Court dated January 15, 2015 in case No. A40-93262/2014**</sub>
@@ -39,8 +39,8 @@ Thus, the domain administrator can be a person, individual entrepreneur or legal
 For those who don’t know where to check who the domain name is registered for, I give a brief explanation about this. It is necessary to use one of the WHOIS services, enter the domain name of interest there, and in the results of the check see who is recorded in the corresponding field (it can be called, for example, "Administrator", "Admin name", etc.). E.g. if we are interested in who administers the domain name garant.ru, we [will find the answer]( https://www.reg.ru/whois/?dname=garant.ru) by using the WHOIS service on Reg.ru site – we found that the administrator of this domain is a legal entity called NPP "Garant-Service" (LLC). 
 
 Secondly, let's define another term – domain name administration – as well: 
-> "**Administration** usually includes: ensuring the functioning of the server, maintaining the site in working condition and ensuring its availability; performing backup of site components and database settings, other types of work"
-> <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub> 
+> "**Administration** usually includes: ensuring the functioning of the server, maintaining the site in working condition and ensuring its availability; performing backup of site components and database settings, other types of work." <br/>
+> <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub> <br/>
 > <sub>**decision of the Moscow Arbitration Court dated May 28, 2012 in case No. A40-25696/2012**</sub>
 
 Thus, the court recognizes that the administration of a domain name is a combination of the following actions:
@@ -84,13 +84,13 @@ The following conclusions of court practice are also noteworthy:
 > "The actual use of the site resources where the information is posted is impossible without the participation in one form or another of the owner (user) of the domain who owns the password for posting information on the corresponding domain name on the website"
 > <sub>**decision of the Primorsky Krai Arbitration Court dated July 4, 2018 in case No. A51-4335/2018**<sub></sub> 
 
-> "The domain administrator is powered to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website. So, the responsibility for the content on the domain administrator's website should be borne by the domain owner, since the actual use of the site's resources is impossible without the participation in one form or another of the domain administrator, who is the person who created the appropriate technical conditions for visitors of his web-source" 
+> "The domain administrator is powered to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website. So, the responsibility for the content on the domain administrator's website should be borne by the domain owner, since the actual use of the site's resources is impossible without the participation in one form or another of the domain administrator, who is the person who created the appropriate technical conditions for visitors of his web-source" <br/>
 > <sub>**decision of the Moscow Arbitration Court dated January 15, 2015 in case No. A40-93262/2014**<sub></sub>
 
-> "The right of administration exists by virtue of the domain name registration agreement and is valid since the moment of registration of the domain name during the registration period"
+> "The right of administration exists by virtue of the domain name registration agreement and is valid since the moment of registration of the domain name during the registration period" <br/>
 > <sub>**The decision of the Arbitration Court of the Tver region dated December 27, 2017 in case No. A66-3737/2017**</sub>
 
-> "The domain administrator has the authority to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website" 
+> "The domain administrator has the authority to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website" <br/>
 > <sub>**The decision of the Moscow Arbitration Court dated May 26, 2014 in case No. A40-188267/2013**</sub>
 
 As you can see, the courts pay close attention to the legal status of the domain name administrator, designate his role, determine the criteria for his liability. This suggests that the investigation by a court of the role of an administrator of disputed domain name (and sometimes the establishment of his identity) is one of the key issues when a court is considering the case. It is the qualified assessment by the court of the role of the disputed domain name administrator that makes it possible to determine whether there was an violation in his actions or inactions, whether he should be brought to the case as a defendant or a co-respondent, whether it is necessary to assign responsibility (including material nature) to him for violating the plaintiff's rights. 
@@ -112,11 +112,11 @@ For clarity, I suggest you familiarize yourself with a small collection of cases
 # Conclusions
 
 Thus, from the text above, we can formulate the following conclusions from this court practice: 
-1. ==If you administer a domain name, you bear the risks of violating the rights of third parties.==
+1. If you administer a domain name, you bear the risks of violating the rights of third parties.
 
-2. ==If you administer a domain name, in certain cases you may be recognized as an information intermediary.== 
+2. If you administer a domain name, in certain cases you may be recognized as an information intermediary.
 
-3. ==If the court establishes the responsibility of the administrator, compensation for violation of the rights of third parties may be significant== (for example, over 500,000 rubles, see the decision of the Arbitration Court of the Moscow region in case No. A41-27647/14, the decision of the Arbitration Court of the City of St. Petersburg and the Leningrad region in case No. A56-61922/2014). 
+3. If the court establishes the responsibility of the administrator, compensation for violation of the rights of third parties may be significant (for example, over 500,000 rubles, see the decision of the Arbitration Court of the Moscow region in case No. A41-27647/14, the decision of the Arbitration Court of the City of St. Petersburg and the Leningrad region in case No. A56-61922/2014). 
 
 So, if you are a domain name administrator, you should pay special attention to check whether you are violating intellectual property rights by using the appropriate domain name. And if you are at the stage of acquiring or registering a domain name, it is recommended to make this check in advance – it can help in the next future to avoid the situation where you will be forced to pay compensation to a third party for violation (even unintentional) of this party’s rights.
 
