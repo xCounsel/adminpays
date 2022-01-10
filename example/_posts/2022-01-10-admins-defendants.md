@@ -71,17 +71,17 @@ The domain name registration system is designed in such a way that only one pers
 ## Legal status of a domain name administrator
 
 Next, let's determine the legal status of a domain name administrator under the established Russian court practice. 
-> "A domain name administrator determines the order of use of a domain, is responsible for the choice of a domain name, possible violations of third parties’ rights associated with the choice and use of such domain name, and also bears the risk of losses associated with such violations"
+> "A domain name administrator determines the order of use of a domain, is responsible for the choice of a domain name, possible violations of third parties’ rights associated with the choice and use of such domain name, and also bears the risk of losses associated with such violations" <br/>
 > <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**<sub></sub> 
 
 That is, Russian court practice recognizes that a domain name administrator not only determines the order of use of it, but is also responsible for both the choice of a domain name (during its subsequent registration by him) and for possible violations of third parties’ rights related to such a domain name. In addition, an administrator also bears the risk of losses associated with such violations.
 
 The following conclusions of court practice are also noteworthy: 
 
-> "In accordance with the Rules of registration of domain names in the RU domain, a domain administrator, as a person who has concluded a domain name registration agreement, administers the domain, that is, determines the order of use of the domain. The right of administration exists by virtue of the domain name registration agreement and is valid from the moment of registration of the domain name during the registration period." 
+> "In accordance with the Rules of registration of domain names in the RU domain, a domain administrator, as a person who has concluded a domain name registration agreement, administers the domain, that is, determines the order of use of the domain. The right of administration exists by virtue of the domain name registration agreement and is valid from the moment of registration of the domain name during the registration period." <br/>
 > <sub>**The decision of the Moscow Arbitration Court dated January 20, 2015 in case No. A40-178919/2014**</sub>
 
-> "The actual use of the site resources where the information is posted is impossible without the participation in one form or another of the owner (user) of the domain who owns the password for posting information on the corresponding domain name on the website"
+> "The actual use of the site resources where the information is posted is impossible without the participation in one form or another of the owner (user) of the domain who owns the password for posting information on the corresponding domain name on the website" <br/>
 > <sub>**decision of the Primorsky Krai Arbitration Court dated July 4, 2018 in case No. A51-4335/2018**<sub></sub> 
 
 > "The domain administrator is powered to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website. So, the responsibility for the content on the domain administrator's website should be borne by the domain owner, since the actual use of the site's resources is impossible without the participation in one form or another of the domain administrator, who is the person who created the appropriate technical conditions for visitors of his web-source" <br/>
