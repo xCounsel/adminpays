@@ -29,8 +29,8 @@ Since the number of domain disputes is not decreasing, and individuals will cont
 First, let's define the terminology. In Russian court practice, a definition has already been given who should be recognized as a domain name administrator: 
 
 > "**Domain administrator** is a person, individual entrepreneur or legal entity for which the domain name is registered".
-> <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub>
-> <sub>**decision of the Primorsky Krai Arbitration Court dated July 4, 2018 in case No. A51-4335/2018**</sub> 
+> <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub> <br/>
+> <sub>**decision of the Primorsky Krai Arbitration Court dated July 4, 2018 in case No. A51-4335/2018**</sub> <br/>
 > <sub>**decision of the Moscow Arbitration Court dated January 15, 2015 in case No. A40-93262/2014**</sub>
 
 
