@@ -72,7 +72,7 @@ legal:
     url:               /NEWSLOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © adminpays.com authors 2021. All rights reserved.
+copyright:             © adminpays.com authors 2021-2022. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
@@ -354,7 +354,7 @@ plugins:
 #   google:              <verification-id>
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
-#   yandex:              <verification-id>
+#   yandex:              dd37e2d9fde303b1
 
 # Used for twitter cards
 # twitter:
