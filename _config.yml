@@ -72,7 +72,7 @@ legal:
     url:               /NEWSLOG/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © adminpays.com authors 2021-2022. All rights reserved.
+copyright:             © adminpays.com authors 2021-2023. All rights reserved.
 
 # Format of the permalinks
 permalink:             /blog/:categories/:year-:month-:day-:title/
