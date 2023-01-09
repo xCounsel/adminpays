@@ -13,7 +13,7 @@ There is a some kind of newsfeed related to domain disputes (mostly in Russia).
 
 ## 2020
 
-* In December, the Arbitration Court of the city of St. Petersburg and the Leningrad region awarded to collect the compensation from the owner of hte domain name nanoprotech.ru in favor of the plaintiff (NP GROUP LLC). The Court recognized the transfer of administrator rights during the process of dispute resolution as an abuse of right.
+* In December, the court awarded to collect the compensation from the owner of hte domain name nanoprotech.ru in favor of the plaintiff. The transfer of administrator rights during the process of dispute resolution was recognized by the court as an abuse of right.
 
 ## 2019
 
