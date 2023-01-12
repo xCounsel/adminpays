@@ -18,7 +18,9 @@ There is a some kind of newsfeed related to domain disputes (mostly in Russia).
 ## 2019
 
 * The decision of a court on the claim of "Pobeda" on the domain _pobeda-bilet.ru_ was annulled by the Intellectual Property Rights Court. It sent the case for a new hearing. [case No. A40-172962/2018] 
-* Moscow Arbitration Court banned the administrator of "_моэск.рф_" to perform any actions against it before the completion of the domain dispute.
+
+## 2018
+* Moscow Arbitration Court banned the administrator of "_моэск.рф_" to perform any actions against it before the completion of the domain dispute. [case No. А40-162784/2016]
 
 _this page is under construction_
 
