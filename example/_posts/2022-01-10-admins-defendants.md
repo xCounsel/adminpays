@@ -18,9 +18,9 @@ invert_sidebar: true
 {:toc}
 
 
-For those who monitor domain disputes in Russian arbitration courts, the following points have not been surprising for a long time: (1) claims on domain disputes are often filed in connection with violations (according to the plaintiffs) of intellectual rights; (2) individuals who are not individual entrepreneurs often act as defendants. Why is that? Often the answer is simple: such persons are (or were) administrators of domain names that have become the object of judicial disputes. Looking ahead, I note that there are already many cases in Russia in which such administrators were found responsible for violations of the intellectual rights of plaintiffs and awarded compensation of a significant amount to them (often over 500,000 rubles). 
+For those who monitor domain disputes in Russian arbitration courts, the following points will not be a surprise: (1) claims on domain disputes are often filed in connection with violations (according to plaintiffs) of intellectual rights; (2) individuals who are not individual entrepreneurs often act as defendants. Why does it happen? The answer is often simple: such persons are (or were) administrators of domain names that have become the object of judicial disputes. Looking ahead, I note that there are already many cases in Russia where such administrators were found responsible for violations of intellectual rights of plaintiffs and awarded compensation of a significant amount to them (often over 500,000 rubles). 
 
-Since the number of domain disputes is not decreasing, and individuals will continue to be involved in such cases, I propose to figure out when and for what actions a person can be held liable in domain disputes.
+Since the number of domain disputes is increasing, and individuals will continue to be involved in such cases, I propose to identify when and for what actions a person can be held liable in domain disputes.
 <br/>
 
 
