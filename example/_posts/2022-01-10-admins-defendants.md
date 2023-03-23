@@ -26,7 +26,7 @@ Since the number of domain disputes is increasing, and individuals will continue
 
 ## A little terminology
 
-First, let's define the terminology. In Russian court practice, a definition has already been given who should be recognized as a domain name administrator: 
+First, let's define terminology. In Russian court practice, a definition of who should be recognized as a domain name administrator has already been given: 
 
 > "**Domain administrator** is a person, individual entrepreneur or legal entity for which the domain name is registered". <br/>
 > <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub> <br/>
@@ -36,35 +36,36 @@ First, let's define the terminology. In Russian court practice, a definition has
 
 Thus, the domain administrator can be a person, individual entrepreneur or legal entity. 
 
-For those who don’t know where to check who the domain name is registered for, I give a brief explanation about this. It is necessary to use one of the WHOIS services, enter the domain name of interest there, and in the results of the check see who is recorded in the corresponding field (it can be called, for example, "Administrator", "Admin name", etc.). E.g. if we are interested in who administers the domain name garant.ru, we [will find the answer]( https://www.reg.ru/whois/?dname=garant.ru) by using the WHOIS service on Reg.ru site – we found that the administrator of this domain is a legal entity called NPP "Garant-Service" (LLC). 
+For those who don’t know where to check who the adminstrator of a domain name is, I can give a brief explanation about it. It is necessary to use one of the WHOIS services, enter a domain name that you’d like to know about, and in the results of the check you will see the name of a company or a person that is recorded in the corresponding field (it can be called, for example, "Administrator", "Admin name", etc.). E.g., if we are interested in who administers the domain name garant.ru, we [will find the answer]( https://www.reg.ru/whois/?dname=garant.ru) by using the WHOIS service on Reg.ru site – we found that the administrator of this domain is a legal entity called NPP "Garant-Service" (LLC). 
 
 Secondly, let's define another term – domain name administration – as well: 
-> "**Administration** usually includes: ensuring the functioning of the server, maintaining the site in working condition and ensuring its availability; performing backup of site components and database settings, other types of work." <br/>
+> "**Administration** usually includes: ensuring the functioning of the server, maintaining the website in working condition and ensuring its availability; performing backup of website components and database settings, other types of work." <br/>
 > <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**</sub> <br/>
 > <sub>**decision of the Moscow Arbitration Court dated May 28, 2012 in case No. A40-25696/2012**</sub>
 
 Thus, the court recognizes that the administration of a domain name is a combination of the following actions:
-* ensuring the functioning of the server; 
-* maintaining the site in working condition; 
-* ensuring the availability of the site; 
+* ensuring functioning of the server; 
+* maintaining the website in working condition; 
+* ensuring availability of a website; 
 * performing backup of site components; 
 * backup of database configuration parameters; 
 * other types of work. 
 
 In addition, based on the decision of the Moscow Arbitration Court dated May 26, 2014 in case No. A40-188267/2013, the following actions and operations can also be additionally distinguished: 
+
 * maintenance of the server on which a website is hosted; 
 * carrying out organizational and technical measures to protect information on a website from unauthorized access; 
-* installation of the software necessary for the functioning of the site, including in case of an emergency; 
-* registration of employees serving a site and granting the right to change information on a site; 
+* installation of the software necessary for functioning of a website (a website to function), including emergency cases; 
+* registration of employees serving a website and granting the right to change information on a website; 
 * carrying out routine maintenance on a server (replacement or addition of site components, maintaining log files of archived copies, monitoring the availability of free database tablespace, etc.); 
 * ensuring the placement of information on a website; 
-* implementation of continuous monitoring of the state of the security system of services necessary for the correct operation of the application and information on a site; 
-* performance of works on modernization and modification of the functional services of a site;
+* implementation of continuous monitoring of the state of security system of services necessary for correct operation of the application and information on a website; 
+* performance of works on modernization and modification of functional services of a website;
 * making changes to a site structure and design.
 
-Thus, we can say that the administration of a domain name includes a whole range of works and actions designed to ensure the normal functioning of a website or service as a working information system. It is the administrator who creates the necessary technical conditions for the appearance of various materials on a site, their modification and their removal (blocking) from there. 
+Thus, we can say that administration of a domain name includes a whole range of works and actions designed to ensure normal functioning of a website or service as a working information system. It is the administrator who creates the necessary technical conditions for appearance of various materials on a website, their modification and their removal (blocking) from there. 
 
-The domain name registration system is designed in such a way that only one person or legal entity can be specified as the domain name administrator in the registry of records of domain name owners. At the same time, the domain name can actually be administered by a large number of persons and/or entities (e.g. if a domain administrator engages a third party to administer the domain name under a contract for the provision of paid services).
+The domain name registration system is designed in such a way that only one person or legal entity can be specified as a domain name administrator in the registry of records of domain name owners. At the same time, the domain name can actually be administered by a large number of persons and/or entities (e.g., if a domain administrator engages a third party to administer the domain name under a contract for the provision of paid services).
 
 
 
