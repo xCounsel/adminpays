@@ -63,9 +63,9 @@ In addition, based on the decision of the Moscow Arbitration Court dated May 26,
 * performance of works on modernization and modification of functional services of a website;
 * making changes to a site structure and design.
 
-Thus, we can say that administration of a domain name includes a whole range of works and actions designed to ensure normal functioning of a website or service as a working information system. It is the administrator who creates the necessary technical conditions for appearance of various materials on a website, their modification and their removal (blocking) from there. 
+Thus, we can say that administration of a domain name includes a whole range of work and actions designed to ensure normal functioning of a website or service as a working information system. It is the administrator who creates the necessary technical conditions for appearance of various materials on a website, their modification and their removal (blocking) from there. 
 
-The domain name registration system is designed in such a way that only one person or legal entity can be specified as a domain name administrator in the registry of records of domain name owners. At the same time, the domain name can actually be administered by a large number of persons and/or entities (e.g., if a domain administrator engages a third party to administer the domain name under a contract for the provision of paid services).
+The domain name registration system is designed in such way that only one person or legal entity can be specified as a domain name administrator in the registry of records of domain name owners. At the same time, the domain name can actually be administered by a large number of persons and/or entities (e.g., if a domain administrator engages a third party to administer the domain name under a contract for the provision of paid services).
 
 
 
