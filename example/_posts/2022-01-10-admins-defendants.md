@@ -71,18 +71,18 @@ The domain name registration system is designed in such way that only one person
 
 ## Legal status of a domain name administrator
 
-Next, let's determine the legal status of a domain name administrator under the established Russian court practice. 
+Next, let's determine a legal status of a domain name administrator under the established Russian court practice. 
 > "A domain name administrator determines the order of use of a domain, is responsible for the choice of a domain name, possible violations of third parties’ rights associated with the choice and use of such domain name, and also bears the risk of losses associated with such violations" <br/>
 > <sub>**decision of the Moscow Arbitration Court dated November 3, 2011 in case No. A40-73876/2011**<sub></sub> 
 
-That is, Russian court practice recognizes that a domain name administrator not only determines the order of use of it, but is also responsible for both the choice of a domain name (during its subsequent registration by him) and for possible violations of third parties’ rights related to such a domain name. In addition, an administrator also bears the risk of losses associated with such violations.
+That is, Russian court practice recognizes that a domain name administrator not only determines the order of its use, but is also responsible for both the choice of a domain name (during its subsequent registration by him) and for possible violations of third parties’ rights related to such a domain name. Additionally, an administrator also bears the risk of losses associated with such violations.
 
 The following conclusions of court practice are also noteworthy: 
 
-> "In accordance with the Rules of registration of domain names in the RU domain, a domain administrator, as a person who has concluded a domain name registration agreement, administers the domain, that is, determines the order of use of the domain. The right of administration exists by virtue of the domain name registration agreement and is valid from the moment of registration of the domain name during the registration period." <br/>
+> "In accordance with the Rules of registration of domain names in the RU domain, a domain administrator, as a person who has concluded a domain name registration agreement, administers the domain, that is, determines the order of use of this domain. The right of administration exists by virtue of the domain name registration agreement and is valid from the moment of registration of the domain name during the registration period." <br/>
 > <sub>**The decision of the Moscow Arbitration Court dated January 20, 2015 in case No. A40-178919/2014**</sub>
 
-> "The actual use of the site resources where the information is posted is impossible without the participation in one form or another of the owner (user) of the domain who owns the password for posting information on the corresponding domain name on the website" <br/>
+> "The actual use of the website resources where the information is posted is impossible without the participation in one form or another of the owner (user) of the domain who owns the password for posting information on the corresponding domain name on the website" <br/>
 > <sub>**decision of the Primorsky Krai Arbitration Court dated July 4, 2018 in case No. A51-4335/2018**<sub></sub> 
 
 > "The domain administrator is powered to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website. So, the responsibility for the content on the domain administrator's website should be borne by the domain owner, since the actual use of the site's resources is impossible without the participation in one form or another of the domain administrator, who is the person who created the appropriate technical conditions for visitors of his web-source" <br/>
@@ -94,7 +94,7 @@ The following conclusions of court practice are also noteworthy:
 > "The domain administrator has the authority to form and control the information posted under the corresponding domain name, in particular, the password for posting information on the corresponding domain name on the website" <br/>
 > <sub>**The decision of the Moscow Arbitration Court dated May 26, 2014 in case No. A40-188267/2013**</sub>
 
-As you can see, the courts pay close attention to the legal status of the domain name administrator, designate his role, determine the criteria for his liability. This suggests that the investigation by a court of the role of an administrator of disputed domain name (and sometimes the establishment of his identity) is one of the key issues when a court is considering the case. It is the qualified assessment by the court of the role of the disputed domain name administrator that makes it possible to determine whether there was an violation in his actions or inactions, whether he should be brought to the case as a defendant or a co-respondent, whether it is necessary to assign responsibility (including material nature) to him for violating the plaintiff's rights. 
+As you can see, the courts pay close attention to the legal status of the domain name administrator, designate his role, determine the criteria for his liability. This suggests that the investigation by the court of the role of an administrator of disputed domain name (and sometimes the establishment of his identity) is one of the key issues when the court considers a case. It is the qualified assessment by the court of the role of the disputed domain name administrator that makes it possible to determine whether there was an violation in his actions or inactions, whether he should be brought to the case as a defendant or a co-respondent, whether it is necessary to assign responsibility (including material nature) to him for violating the plaintiff's rights. 
 
 For clarity, I suggest you familiarize yourself with a small collection of cases from the [Kardamon.Dm database](https://dorotenko.pro/kardamon/), in which individuals were defendants in domain disputes, since they were administrators of disputed domain names and violated the intellectual rights of third parties. This table also shows the amount of compensation that the courts ordered such defendants to pay in favor of the plaintiffs.
 
@@ -112,14 +112,15 @@ For clarity, I suggest you familiarize yourself with a small collection of cases
 
 # Conclusions
 
-Thus, from the text above, we can formulate the following conclusions from this court practice: 
+Thus, from the information above, we can formulate the following conclusions from this court practice: 
+  
 1. If you administer a domain name, you bear the risks of violating the rights of third parties.
 
 2. If you administer a domain name, in certain cases you may be recognized as an information intermediary.
 
 3. If the court establishes the responsibility of the administrator, compensation for violation of the rights of third parties may be significant (for example, over 500,000 rubles, see the decision of the Arbitration Court of the Moscow region in case No. A41-27647/14, the decision of the Arbitration Court of the City of St. Petersburg and the Leningrad region in case No. A56-61922/2014). 
 
-So, if you are a domain name administrator, you should pay special attention to check whether you are violating intellectual property rights by using the appropriate domain name. And if you are at the stage of acquiring or registering a domain name, it is recommended to make this check in advance – it can help in the next future to avoid the situation where you will be forced to pay compensation to a third party for violation (even unintentional) of this party’s rights.
+So, if you are a domain name administrator, you should pay close attention to check whether you violate intellectual property rights by using an appropriate domain name. And if you are at the stage of acquiring or registering a domain name, it is recommended to make this check in advance – it might help in the future to avoid a situation where you will be forced to pay compensation to a third party for violation (even unintentional) of this party’s rights.
 
 
 ----
