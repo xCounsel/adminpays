@@ -21,9 +21,9 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-Our legal team are ready to assist you every step of the way to handle and solve a domain name dispute. We can protect your rights and interests since drafting the claim till represent you in a lawsuit related to domain name dispute. We deeply analyze the client's case to find out the gaps and weaknesses in the legal defence of its opponents: not only a domain name owner, but a domain administrator, registrar and hosting company too.
+Our legal team is ready to assist you every step on the way of handling and solving a domain name dispute. We can protect your rights and interests since drafting the claim until when representing you in a lawsuit related to a domain name dispute. We deeply analyze a client's case to find out the gaps and weaknesses in the legal defence of its opponents: not only a domain name owner, but a domain administrator, a registrar and a hosting company too.
 
-## How we can help
+## How can we help
 
 We may be useful in a number of ways to solve a domain name dispute:
 
