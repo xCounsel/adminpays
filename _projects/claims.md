@@ -27,8 +27,8 @@ Our legal team is ready to assist you every step on the way of handling and solv
 
 We may be useful in a number of ways to solve a domain name dispute:
 
-### **Draft the complaint and manage it** 
-A well-composed complaint, what reflects strong points of a claimant, may serve as an effective tool not only to stop the violation, but to get a domain without a court battle. 
+### **Draft a complaint and manage it** 
+A well-composed complaint, that reflects strong points of a claimant, may serve as an effective tool not only to stop the violation, but also to get a domain without a court battle. 
 
 ### **Draft the lawsuit and provide a court representation** 
 A more heavily legal tool. If a violator does not react on a complaint, this document can help to force him not only stop the violation, but to pay the damages or a compensation.
