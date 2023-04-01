@@ -26,7 +26,7 @@ Among other legal duties, we have drafted a good number of agreements and partic
 Nevertheless, we hope, that other information published here help you to understand our legal experience related to domain names. So, we are ready to provide corresponding services and share our experience with you. 
 
 ## I would like to get a quick access and download an agreement
-Well, if you are just looking for a quite good agreement and ready to prepare it for your own purposes, we may suggest you to glance at the following templates (including domain name transfer agreements):
+Well, if you are just looking for a quite good agreement and are ready to prepare it for your own purposes, we may suggest you to glance at the following templates (including domain name transfer agreements):
 
 * [Domain name assignment agreement](https://www.leaplaw.com/pubSearch/preview/domainname_assign.pdf) / ![GB](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/GB.png?raw=true) / pdf
 * [Domain name purchase and transfer agreement](https://www.docracy.com/4693/domain-name-transfer-agreement) / ![GB](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/GB.png?raw=true) / pdf
