@@ -50,5 +50,5 @@ Discover, what foreign companies and for what domains sued in Russian courts? Wh
 
 
 ### [Registrars and disputes](https://lfacademy.ru/course/2658206){:.no-mark-external}
-Find out, what the roles the registrars play in Russian legal battles, and why the courts do not recognize them liable in respect to domain disputes. Also, this video explains the legal status of a registrar as an information intermediary, what they do to avoid be a defendant and found liable (as a defendant and/or an information intermediary).<br/>
+Find out, which roles the registrars play in Russian legal battles, and why the courts do not recognize them liable in respect to domain disputes. Also, this video explains the legal status of a registrar as an information intermediary, what they do to avoid be a defendant and found liable (as a defendant and/or an information intermediary).<br/>
 ![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU.png?raw=true) _published at [Legal Academy](https://lfacademy.ru/course/2658206) in 2019_
