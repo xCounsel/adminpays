@@ -42,6 +42,7 @@ Appropriate credit as per Creative Commons licenses.
 | Photo by [Patrick Tomasso][ap5]                        | [Unsplash]     | None                              | 
 | Photo by [Greg Rosenke][ap6]                           | [Unsplash]     | None                              | 
 | Photo by [Bernd Klutsch][ap7]                          | [Unsplash]     | None                              | 
+
 <br/>
 
 
