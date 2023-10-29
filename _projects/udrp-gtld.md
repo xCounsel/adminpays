@@ -6,11 +6,11 @@ description: >
    How can we help in cases related to the UDRP and gTLDs  
 date: 2 August 2021
 image: 
-  path: /assets/img/projects/gtld.jpg
+  path: /assets/img/projects/gtld-2.jpg
   srcset: 
-    1920w: /assets/img/projects/gtld.jpg
-    960w:  /assets/img/projects/gtld.jpg
-    480w:  /assets/img/projects/gtld.jpg
+    1920w: /assets/img/projects/gtld-2.jpg
+    960w:  /assets/img/projects/gtld-2.jpg
+    480w:  /assets/img/projects/gtld-2.jpg
 links:
   - title: Link
     url: https://www.icann.org/en/registry-agreements/details/yandex?section=agreement
