@@ -41,7 +41,7 @@ Appropriate credit as per Creative Commons licenses.
 | Photo by [Glenn Carstens-Peters][ap4]                  | [Unsplash]     | None                              | 
 | Photo by [Patrick Tomasso][ap5]                        | [Unsplash]     | None                              | 
 | Photo by [Greg Rosenke][ap6]                           | [Unsplash]     | None                              | 
-
+| Photo by [Bernd Klutsch][ap7]                          | [Unsplash]     | None                              | 
 <br/>
 
 
@@ -56,7 +56,7 @@ Appropriate credit as per Creative Commons licenses.
 [ap4]: https://unsplash.com/@glenncarstenspeters?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [ap5]: https://unsplash.com/@impatrickt?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
 [ap6]: https://unsplash.com/@greg_rosenke?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText
-
+[ap7]: https://unsplash.com/photos/pile-of-books-nE2HV5AUXFo
 
 ## Other materials
 
