@@ -27,6 +27,9 @@ We regularly participate in different public legal meetings and events both as s
 
 There is a list of conferences, where we were have participated as speakers with our presentations and reports on legal issues related to domain names and domain disputes:
 
+### [Statistics of domain disputes in Russia](https://digitaltechnologiesandlaw.org/files/2023/sbornik/tom-6.pdf){:.no-mark-external}
+The paper is published in the collection of scientific papers of the conference. It contains detailed statistics of resolving domain disputes by Russian arbitration courts for more than 20 years. These materials represent a valuable object of study for statistics, econometrics and legal analysis in the field of domain disputes.
+![RU](https://github.com/madebybowtie/FlagKit/raw/master/Assets/PNG/RU.png?raw=true) _provided at II International Scientific and Practical Conference [Digital Technologies and Law](https://digitaltechnologiesandlaw.org/eng/) (Kazan, Russia) in 2023_ 
 
 ### [Kardamon: what domain disputes say](https://en.bwforum.ru/conference/intellectual-property2019#rec125640790){:.no-mark-external} 
 Here we talk about the key of success of the Russian and foreign plaintiffs in domain disputes in Russian courts, what foreigners sued in Russia and on what domain names. We also spoke about their trademarks as success factors in such disputes, and who were awarded by courts in a huge amount of compensations for violations of their trademark rights. <br/>
